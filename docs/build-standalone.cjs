@@ -21,6 +21,7 @@ const pages = [
   ['overview', 'index.html'],
   ['itinerary', 'roadmap.html'],
   ['maps', 'maps.html'],
+  ['rental', 'rental.html'],
   ['stay', 'stay.html'],
   ['food', 'food.html'],
   ['research', 'research.html'],
@@ -28,12 +29,12 @@ const pages = [
 
 const labels = {
   overview: '旅程總覽', itinerary: '每日行程', maps: '路線地圖',
-  stay: '住宿比較', food: '餐飲安排', research: '規劃比較',
+  rental: '租車規劃', stay: '住宿比較', food: '餐飲安排', research: '規劃比較',
 };
 
 const hrefMap = {
   'index.html': '#overview', 'roadmap.html': '#itinerary', 'maps.html': '#maps',
-  'stay.html': '#stay', 'food.html': '#food', 'research.html': '#research',
+  'rental.html': '#rental', 'stay.html': '#stay', 'food.html': '#food', 'research.html': '#research',
 };
 
 let sections = pages.map(([id, file]) => {
@@ -61,7 +62,7 @@ const output = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="2027 年 3 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、無樓梯包棟住宿、餐廳與每日路線。">
+  <meta name="description" content="2027 年 3 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、無樓梯包棟住宿、租車保險、餐廳與每日路線。">
   <title>2027 宮古島家庭旅行｜5 天 4 夜</title>
   <style>${baseCss}\n${travelCss}</style>
 </head>
