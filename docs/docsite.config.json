@@ -1,0 +1,145 @@
+{
+  "project": "宮古島家庭旅行",
+  "subtitle": "2027.03.22 — 03.26 · 5 位大人 · 自駕",
+  "brandMark": "MMY",
+  "updated": "2026-08-03",
+  "status": "日期暫定為 2027/3/22–3/26；住宿已有可訂候選，星宇 2027 年 3 月班表尚未開放，須先確認回程航班再鎖定不可退訂項目。",
+  "nav": [
+    { "href": "index.html", "label": "旅程總覽" },
+    { "href": "roadmap.html", "label": "每日行程" },
+    { "href": "maps.html", "label": "路線地圖" },
+    { "href": "stay.html", "label": "住宿比較" },
+    { "href": "food.html", "label": "餐飲安排" },
+    { "href": "research.html", "label": "規劃比較" }
+  ],
+  "hero": {
+    "eyebrow": "FAMILY ROAD TRIP · MIYAKOJIMA",
+    "title": "把海放在門口，<br>把步調留給家人。",
+    "lead": "5 天 4 夜、兩段包棟住宿、每天只安排一個主題區域。以 79 歲媽媽不爬樓梯、單次步行 30–60 分鐘為設計底線。",
+    "pills": [
+      { "kind": "pill current", "text": "日期 3/22–3/26（待航班確認）" },
+      { "kind": "pill", "text": "5 位大人" },
+      { "kind": "pill", "text": "預算目標 NT$30,000／人" }
+    ],
+    "svgLabel": "與那霸前濱海灘",
+    "svg": "<svg viewBox=\"0 0 900 560\" role=\"img\" aria-label=\"與那霸前濱海灘\"><image href=\"assets/miyako-hero.jpg\" width=\"900\" height=\"560\" preserveAspectRatio=\"xMidYMid slice\"/></svg>"
+  },
+  "docMapHeader": {
+    "eyebrow": "PLAN AT A GLANCE",
+    "title": "先看結論，再看細節",
+    "desc": "這份網站會隨航班與訂房結果更新；目前最重要的是先守住可取消住宿，再等星宇班表。"
+  },
+  "docMap": [
+    { "href": "roadmap.html", "icon": "🗓️", "title": "5 天低負擔行程", "desc": "每天一個區域、午后保留休息，不把景點排成耐力測驗。" },
+    { "href": "maps.html", "icon": "🚙", "title": "自駕路線", "desc": "依住宿位置分南、西、北三條線，減少來回折返。" },
+    { "href": "stay.html", "icon": "🏠", "title": "兩間無樓梯住宿", "desc": "首選 Villaze＋White Shisa，另列舒適與省預算備案。" },
+    { "href": "food.html", "icon": "🍜", "title": "餐廳與備案", "desc": "標出營業日、停車、桌椅與是否需預約，避免現場才找。" },
+    { "href": "research.html", "icon": "🔎", "title": "網路行程比較", "desc": "比較定點度假、環島踩點與兩基地包棟，說明為何採用現在的版本。" }
+  ],
+  "metrics": [
+    { "value": "2＋2", "label": "住宿節奏", "desc": "前兩晚近前濱、後兩晚近平良市區；只搬一次行李。" },
+    { "value": "平房", "label": "無樓梯優先", "desc": "Villaze 與 White Shisa 均為一層；White Shisa 官網明列室內無段差。" },
+    { "value": "約 3 萬", "label": "每人預算", "desc": "機票尚未開賣；住宿、租車與餐費以五人分攤估算後仍有機會守住。" }
+  ],
+  "roadmap": {
+    "eyebrow": "5 DAYS · ONE GENTLE RHYTHM",
+    "title": "每天只走一條線，累了就回家看海。",
+    "lead": "時間是舒服版草案；實際起降時刻、潮汐、天氣與餐廳營業日，出發前再做最後校正。",
+    "pills": [
+      { "kind": "pill current", "text": "長輩友善" },
+      { "kind": "pill", "text": "每 60–90 分鐘可休息" },
+      { "kind": "pill", "text": "不排樓梯景點" }
+    ],
+    "nextCard": {
+      "title": "目前先做三件事",
+      "html": "<ol><li>訂可免費取消的 Villaze 3/22–3/24。</li><li>White Shisa 與 Sora-Jima 二選一保留後兩晚。</li><li>等星宇 2027 年 3 月班表，確認 3/26 是否有直飛回程。</li></ol>"
+    },
+    "phasesHeader": {
+      "eyebrow": "DAILY PLAN",
+      "title": "五天四夜草案",
+      "desc": "若媽媽當天精神或天候不理想，任何下午景點都可直接刪除，不影響主線。"
+    },
+    "phases": [
+      {
+        "id": "DAY 1",
+        "name": "3/22（一）抵達＋伊良部藍海",
+        "status": "current",
+        "statusLabel": "待航班",
+        "desc": "桃園直飛下地島／宮古島後取車。先到 Blue Turtle 吃午餐與看渡口之濱，再走伊良部大橋、採買，入住 Villaze。",
+        "checklist": [
+          { "done": true, "text": "午餐：Blue Turtle（11:00–22:00、免費停車、海灘步行約 5 秒）" },
+          { "done": true, "text": "傍晚：與那霸前濱海灘散步 20–40 分鐘，隨時可折返" },
+          { "done": false, "text": "晚餐：超市採買後在包棟民宿簡單吃，避免飛行日再趕餐廳" }
+        ]
+      },
+      {
+        "id": "DAY 2",
+        "name": "3/23（二）前濱慢日＋南岸",
+        "status": "pending",
+        "statusLabel": "草案",
+        "desc": "上午把時間留給前濱。午餐吃古謝そば，下午只選一個平緩景點：德國文化村海岸散步或回 Villaze 午休。",
+        "checklist": [
+          { "done": true, "text": "午餐：古謝そば屋（11:00–16:00、週三休、約 20 個停車位、不接受預約）" },
+          { "done": false, "text": "下午：德國文化村海岸區；不進需要爬樓梯的展望設施" },
+          { "done": false, "text": "晚餐：Yard miyakojima 擇一餐廳，園區有無障礙廁所與 28 個停車位" }
+        ]
+      },
+      {
+        "id": "DAY 3",
+        "name": "3/24（三）換屋＋東海岸",
+        "status": "pending",
+        "statusLabel": "草案",
+        "desc": "退房後把行李留在車上，走東平安名崎。停車場到燈塔為長直線步道；媽媽可只走前段看海，不勉強走到底。下午入住 White Shisa。",
+        "checklist": [
+          { "done": true, "text": "古謝そば與すむばり皆週三休，這天不排兩家" },
+          { "done": false, "text": "午餐：島の駅みやこ，選擇多、可快速完成" },
+          { "done": false, "text": "晚餐：White Shisa 附近外帶或自炊，保留搬家後的休息時間" }
+        ]
+      },
+      {
+        "id": "DAY 4",
+        "name": "3/25（四）池間北線＋章魚料理",
+        "status": "pending",
+        "statusLabel": "草案",
+        "desc": "沿西平安名崎、雪塩博物館、池間大橋走北線。以景觀停車點為主，不安排砂山海灘的陡坡。",
+        "checklist": [
+          { "done": true, "text": "10:30 前抵達すむばり，優先詢問 5 個桌椅座位；其餘多為座敷" },
+          { "done": true, "text": "すむばり 10:00–17:00、週三休、不接受預約、現金限定、免費停車 14 台" },
+          { "done": false, "text": "下午回 White Shisa 午休；有體力再到 Painagama 看夕陽" }
+        ]
+      },
+      {
+        "id": "DAY 5",
+        "name": "3/26（五）市區採買＋返台",
+        "status": "pending",
+        "statusLabel": "待航班",
+        "desc": "依回程航班倒推，先加油、還車，再辦理登機。若 3/26 無星宇直飛，日期或航空安排必須調整。",
+        "checklist": [
+          { "done": false, "text": "早餐後退房，島の駅みやこ補買伴手禮" },
+          { "done": false, "text": "至少起飛前 2.5 小時抵達機場區域，預留還車與接駁" },
+          { "done": false, "text": "不在最後一天安排遠端景點或下水活動" }
+        ]
+      }
+    ]
+  },
+  "openIssues": [
+    { "tag": "航班", "title": "星宇 2027 年 3 月班表尚未開放", "body": "目前官方基準班表以週一、週四為主；3/22 是週一，但 3/26 是週五。若班次型態不變，回程日期會衝突。", "bodyMd": "目前官方基準班表以週一、週四為主；3/22 是週一，但 3/26 是週五。若班次型態不變，回程日期會衝突。" },
+    { "tag": "浮潛", "title": "3 月下旬不把下水視為保證項目", "body": "氣象廳平年值顯示 3 月下旬平均約 20.8°C、平均風速 4.5 m/s；視水溫、風浪與媽媽狀況決定，只在有救生／業者管理下水。" },
+    { "tag": "住宿", "title": "後兩晚二選一", "body": "White Shisa 的無段差最確定；Sora-Jima 床位更舒服，但入口與浴室門檻仍須向房東書面確認。" }
+  ],
+  "decisions": [
+    { "item": "住宿節奏", "decision": "兩晚 Villaze＋兩晚 White Shisa／Sora-Jima；全程只搬一次行李。", "date": "2026-08-03" },
+    { "item": "長輩條件", "decision": "不排需要爬樓梯、陡坡或長距離沙地的景點；每個午後都能直接回住宿休息。", "date": "2026-08-03" },
+    { "item": "預算控制", "decision": "先用可取消方案卡住宿，機票以 NT$13,000–16,000／人作目標區間，總額超過 3.3 萬再刪付費活動。", "date": "2026-08-03" }
+  ],
+  "next": [
+    "以可免費取消條件保留 Villaze 與後兩晚首選。",
+    "星宇開放 2027 年 3 月班表後，先確認 3/26 回程是否成立。",
+    "航班確定後再鎖定租車、餐廳與不可退方案。"
+  ],
+  "diskReality": [
+    "主網站由 docs/docsite.config.json 與 docs/site 自動產生。",
+    "根目錄 index.html 是 GitHub Pages 的單頁版。",
+    "價格與房況為 2026-08-03 查核快照，訂購前須重新確認。"
+  ]
+}

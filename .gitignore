@@ -1,0 +1,7 @@
+.codex-temp/
+.aios/boot.json
+.aios/BOOT.md
+node_modules/
+graphify-out/*
+!graphify-out/graph.json
+*.log

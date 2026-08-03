@@ -1,0 +1,240 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 2,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c 2027",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_2027",
+      "community": 2,
+      "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c 2027"
+    },
+    {
+      "label": "INDEX.md",
+      "file_type": "document",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_index",
+      "community": 0,
+      "norm_label": "index.md"
+    },
+    {
+      "label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 INDEX\uff08\u8584\u7d22\u5f15\uff0c\u5207\u63db\u5fc5\u8b80\uff09",
+      "file_type": "document",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
+      "community": 0,
+      "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 index(\u8584\u7d22\u5f15,\u5207\u63db\u5fc5\u8b80)"
+    },
+    {
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-03\uff09",
+      "file_type": "document",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "community": 0,
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-03)"
+    },
+    {
+      "label": "\u9032\u5ea6",
+      "file_type": "document",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "docs_index_\u9032\u5ea6",
+      "community": 0,
+      "norm_label": "\u9032\u5ea6"
+    },
+    {
+      "label": "\ud83d\udd34 \u9ad8\u512a\u5148\u672a\u6c7a\u8b70\uff08\u79fb\u690d\u6b63\u78ba\u6027\u98a8\u96aa\uff09",
+      "file_type": "document",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "docs_index_\u9ad8\u512a\u5148\u672a\u6c7a\u8b70_\u79fb\u690d\u6b63\u78ba\u6027\u98a8\u96aa",
+      "community": 0,
+      "norm_label": "\ud83d\udd34 \u9ad8\u512a\u5148\u672a\u6c7a\u8b70(\u79fb\u690d\u6b63\u78ba\u6027\u98a8\u96aa)"
+    },
+    {
+      "label": "\u5df2\u6c7a\u8b70\uff08\u7d30\u7bc0\u898b roadmap.html\uff09",
+      "file_type": "document",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "docs_index_\u5df2\u6c7a\u8b70_\u7d30\u7bc0\u898b_roadmap_html",
+      "community": 0,
+      "norm_label": "\u5df2\u6c7a\u8b70(\u7d30\u7bc0\u898b roadmap.html)"
+    },
+    {
+      "label": "current.md",
+      "file_type": "document",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_current",
+      "community": 1,
+      "norm_label": "current.md"
+    },
+    {
+      "label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current\uff08\u7576\u524d\u7126\u9ede\uff09",
+      "file_type": "document",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
+      "community": 1,
+      "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
+    },
+    {
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-03\uff09",
+      "file_type": "document",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "community": 1,
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-03)"
+    },
+    {
+      "label": "\u4e0b\u4e00\u6b65",
+      "file_type": "document",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "docs_progress_current_\u4e0b\u4e00\u6b65",
+      "community": 1,
+      "norm_label": "\u4e0b\u4e00\u6b65"
+    },
+    {
+      "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-08-03\uff09",
+      "file_type": "document",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
+      "community": 1,
+      "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-08-03)"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme",
+      "target": "readme_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_2027",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_index",
+      "target": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
+      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
+      "target": "docs_index_\u5df2\u6c7a\u8b70_\u7d30\u7bc0\u898b_roadmap_html",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
+      "target": "docs_index_\u9032\u5ea6",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/INDEX.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
+      "target": "docs_index_\u9ad8\u512a\u5148\u672a\u6c7a\u8b70_\u79fb\u690d\u6b63\u78ba\u6027\u98a8\u96aa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_progress_current",
+      "target": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
+      "target": "docs_progress_current_\u4e0b\u4e00\u6b65",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/current.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
+      "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

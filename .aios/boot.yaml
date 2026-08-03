@@ -1,0 +1,6 @@
+# AIOS boot 設定 — MiyakojimaFamilyTrip2027（引用全域 Scene 庫）
+scenes:
+  - nodejs-tools
+reference_extra:
+  - docs/INDEX.md
+  - docs/progress/current.md
