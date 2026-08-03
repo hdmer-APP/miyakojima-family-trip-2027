@@ -2,6 +2,8 @@
 
 2027/3/22–3/26 宮古島五天四夜家庭旅行的公開單頁網站。
 
+公開網址：https://hdmer-app.github.io/miyakojima-family-trip-2027/
+
 - 公開首頁：根目錄 `index.html`
 - 內容來源：`docs/docsite.config.json`、`docs/site/*.html`
 - 重新產生：先執行 doc-site 生成器，再執行 `node docs/build-standalone.cjs`
