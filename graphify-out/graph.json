@@ -44,14 +44,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 index(\u8584\u7d22\u5f15,\u5207\u63db\u5fc5\u8b80)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-03\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-04\uff09",
       "file_type": "document",
       "source_file": "docs/INDEX.md",
       "source_location": "L5",
       "_origin": "ast",
-      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
       "community": 0,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-03)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-04)"
     },
     {
       "label": "\u9032\u5ea6",
@@ -104,14 +104,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-03\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-04\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L3",
       "_origin": "ast",
-      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
       "community": 1,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-03)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-04)"
     },
     {
       "label": "\u4e0b\u4e00\u6b65",
@@ -127,7 +127,7 @@
       "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-08-03\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
-      "source_location": "L11",
+      "source_location": "L13",
       "_origin": "ast",
       "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
       "community": 1,
@@ -162,7 +162,7 @@
       "source_location": "L5",
       "weight": 1.0,
       "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
-      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
       "confidence_score": 1.0
     },
     {
@@ -212,7 +212,7 @@
       "source_location": "L3",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_03",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
       "confidence_score": 1.0
     },
     {
@@ -229,12 +229,13 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/progress/current.md",
-      "source_location": "L11",
+      "source_location": "L13",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
       "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
       "confidence_score": 1.0
     }
   ],
-  "hyperedges": []
+  "hyperedges": [],
+  "built_at_commit": "790bd9327b2d6e68f03ba2586b4e132be4136275"
 }

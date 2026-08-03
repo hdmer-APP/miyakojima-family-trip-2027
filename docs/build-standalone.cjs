@@ -24,17 +24,20 @@ const pages = [
   ['rental', 'rental.html'],
   ['stay', 'stay.html'],
   ['food', 'food.html'],
+  ['souvenirs', 'souvenirs.html'],
   ['research', 'research.html'],
 ];
 
 const labels = {
   overview: '旅程總覽', itinerary: '每日行程', maps: '路線地圖',
-  rental: '租車規劃', stay: '住宿比較', food: '餐飲安排', research: '規劃比較',
+  rental: '租車規劃', stay: '住宿比較', food: '餐飲安排',
+  souvenirs: '特色商店・紀念品', research: '規劃比較',
 };
 
 const hrefMap = {
   'index.html': '#overview', 'roadmap.html': '#itinerary', 'maps.html': '#maps',
-  'rental.html': '#rental', 'stay.html': '#stay', 'food.html': '#food', 'research.html': '#research',
+  'rental.html': '#rental', 'stay.html': '#stay', 'food.html': '#food',
+  'souvenirs.html': '#souvenirs', 'research.html': '#research',
 };
 
 let sections = pages.map(([id, file]) => {
@@ -62,7 +65,7 @@ const output = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="2027 年 3 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、無樓梯包棟住宿、租車保險、餐廳與每日路線。">
+  <meta name="description" content="2027 年 3 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、無樓梯包棟住宿、租車保險、透明獨木舟、燒肉午餐、特色商店與紀念品。">
   <title>2027 宮古島家庭旅行｜5 天 4 夜</title>
   <style>${baseCss}\n${travelCss}</style>
 </head>
@@ -73,7 +76,7 @@ const output = `<!doctype html>
   </div></header>
   <div class="flight-alert"><strong>先別訂不可退方案：</strong>星宇 2027 年 3 月班表尚未開放。3/22 是週一、3/26 是週五；若延續目前週一／週四型態，週五回程無法成立。</div>
   <main>${sections}</main>
-  <footer class="footer"><div class="shell">宮古島家庭旅行 · 最後查核 2026-08-03<br><span class="photo-credit">首頁照片：<a href="https://commons.wikimedia.org/wiki/File:Miyako%27s_best_beach_(51924567535).jpg" target="_blank" rel="noreferrer">Raita Futo／Wikimedia Commons</a>，CC BY 2.0（裁切顯示）</span></div></footer>
+  <footer class="footer"><div class="shell">宮古島家庭旅行 · 最後查核 2026-08-04<br><span class="photo-credit">首頁照片：<a href="https://commons.wikimedia.org/wiki/File:Miyako%27s_best_beach_(51924567535).jpg" target="_blank" rel="noreferrer">Raita Futo／Wikimedia Commons</a>，CC BY 2.0（裁切顯示）</span></div></footer>
   <script>
     const links = [...document.querySelectorAll('.single-site-nav .nav a')];
     const targets = links.map(link => document.querySelector(link.getAttribute('href'))).filter(Boolean);
