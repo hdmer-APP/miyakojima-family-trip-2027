@@ -65,18 +65,18 @@ const output = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="2027 年 3 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、無樓梯包棟住宿、租車保險、透明獨木舟、燒肉午餐、特色商店與紀念品。">
+  <meta name="description" content="2027 年 5 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、平房包棟住宿、租車保險、透明獨木舟、燒肉午餐、特色商店與紀念品。">
   <title>2027 宮古島家庭旅行｜5 天 4 夜</title>
   <style>${baseCss}\n${travelCss}</style>
 </head>
 <body>
   <header class="topbar single-site-nav"><div class="shell topbar-inner">
-    <a class="brand" href="#overview"><span class="brand-mark">MMY</span><span>宮古島家庭旅行<br><span class="brand-sub">2027.03.22 — 03.26 · 5 位大人</span></span></a>
+    <a class="brand" href="#overview"><span class="brand-mark">MMY</span><span>宮古島家庭旅行<br><span class="brand-sub">2027.05.10 — 05.14 · 5 位大人</span></span></a>
     <nav class="nav" aria-label="單頁網站導航">${nav}</nav>
   </div></header>
-  <div class="flight-alert"><strong>先別訂不可退方案：</strong>星宇 2027 年 3 月班表尚未開放。3/22 是週一、3/26 是週五；若延續目前週一／週四型態，週五回程無法成立。</div>
+  <div class="flight-alert"><strong>先別訂不可退方案：</strong>星宇官網尚無 2027 年 5 月適用票價；5/10–5/14 查無可售組合，若延續目前週一／週四型態，週五回程也無法成立。</div>
   <main>${sections}</main>
-  <footer class="footer"><div class="shell">宮古島家庭旅行 · 最後查核 2026-08-04<br><span class="photo-credit">首頁照片：<a href="https://commons.wikimedia.org/wiki/File:Miyako%27s_best_beach_(51924567535).jpg" target="_blank" rel="noreferrer">Raita Futo／Wikimedia Commons</a>，CC BY 2.0（裁切顯示）</span></div></footer>
+  <footer class="footer"><div class="shell">宮古島家庭旅行 · 最後查核 2026-08-12<br><span class="photo-credit">首頁照片：<a href="https://commons.wikimedia.org/wiki/File:Miyako%27s_best_beach_(51924567535).jpg" target="_blank" rel="noreferrer">Raita Futo／Wikimedia Commons</a>，CC BY 2.0（裁切顯示）</span></div></footer>
   <script>
     const links = [...document.querySelectorAll('.single-site-nav .nav a')];
     const targets = links.map(link => document.querySelector(link.getAttribute('href'))).filter(Boolean);
