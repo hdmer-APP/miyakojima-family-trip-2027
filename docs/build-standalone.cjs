@@ -71,10 +71,10 @@ const output = `<!doctype html>
 </head>
 <body>
   <header class="topbar single-site-nav"><div class="shell topbar-inner">
-    <a class="brand" href="#overview"><span class="brand-mark">MMY</span><span>宮古島家庭旅行<br><span class="brand-sub">2027.05.10 — 05.14 · 5 位大人</span></span></a>
+    <a class="brand" href="#overview"><span class="brand-mark">MMY</span><span>宮古島家庭旅行<br><span class="brand-sub">2027.05.13 — 05.17 · 5 位大人</span></span></a>
     <nav class="nav" aria-label="單頁網站導航">${nav}</nav>
   </div></header>
-  <div class="flight-alert"><strong>先別訂不可退方案：</strong>星宇官網尚無 2027 年 5 月適用票價；5/10–5/14 查無可售組合，若延續目前週一／週四型態，週五回程也無法成立。</div>
+  <div class="flight-alert"><strong>先別訂不可退方案：</strong>星宇官網尚無 2027 年 5 月適用票價；5/13（四）去、5/17（一）回符合現行基準班次，但仍須等 2027 班表與票價確認。</div>
   <main>${sections}</main>
   <footer class="footer"><div class="shell">宮古島家庭旅行 · 最後查核 2026-08-12<br><span class="photo-credit">首頁照片：<a href="https://commons.wikimedia.org/wiki/File:Miyako%27s_best_beach_(51924567535).jpg" target="_blank" rel="noreferrer">Raita Futo／Wikimedia Commons</a>，CC BY 2.0（裁切顯示）</span></div></footer>
   <script>
