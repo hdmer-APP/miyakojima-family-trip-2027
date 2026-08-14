@@ -17,6 +17,7 @@
 - `node docs/accommodation-watch/run.cjs --mode full`：第二次執行為 `NO_ACTIONABLE_CHANGE`，證明通知不重複。
 - `node docs/build-standalone.cjs`：PASS
 - `git diff --check`：PASS
+- 推送 `4639f32` 後，公開 GitHub Pages 回傳 HTTP 200，且已包含 `#accommodation-watch`、住宿監看導覽、The Villa Miyako 與 NT$36,677 最新顯示價。
 - 本機頁面因瀏覽器安全政策封鎖 localhost／file URL，尚未取得完整視窗視覺驗收；推送部署後應改用公開 GitHub Pages 完成視覺查核。
 
 ## 現在還沒完成
