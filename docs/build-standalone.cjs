@@ -6,6 +6,7 @@ const path = require('path');
 const docsDir = __dirname;
 const siteDir = path.join(docsDir, 'site');
 const rootDir = path.dirname(docsDir);
+const siteConfig = JSON.parse(fs.readFileSync(path.join(docsDir, 'docsite.config.json'), 'utf8'));
 
 function read(name) {
   return fs.readFileSync(path.join(siteDir, name), 'utf8');
@@ -23,6 +24,7 @@ const pages = [
   ['maps', 'maps.html'],
   ['rental', 'rental.html'],
   ['stay', 'stay.html'],
+  ['accommodation-watch', 'accommodation-watch.html'],
   ['food', 'food.html'],
   ['souvenirs', 'souvenirs.html'],
   ['research', 'research.html'],
@@ -31,12 +33,14 @@ const pages = [
 const labels = {
   overview: '旅程總覽', itinerary: '每日行程', maps: '路線地圖',
   rental: '租車規劃', stay: '住宿比較', food: '餐飲安排',
+  'accommodation-watch': '住宿監看',
   souvenirs: '特色商店・紀念品', research: '規劃比較',
 };
 
 const hrefMap = {
   'index.html': '#overview', 'roadmap.html': '#itinerary', 'maps.html': '#maps',
   'rental.html': '#rental', 'stay.html': '#stay', 'food.html': '#food',
+  'accommodation-watch.html': '#accommodation-watch',
   'souvenirs.html': '#souvenirs', 'research.html': '#research',
 };
 
@@ -76,7 +80,7 @@ const output = `<!doctype html>
   </div></header>
   <div class="flight-alert"><strong>先別訂不可退方案：</strong>星宇官網尚無 2027 年 5 月適用票價；5/13（四）去、5/17（一）回符合現行基準班次，但仍須等 2027 班表與票價確認。</div>
   <main>${sections}</main>
-  <footer class="footer"><div class="shell">宮古島家庭旅行 · 最後查核 2026-08-12<br><span class="photo-credit">首頁照片：<a href="https://commons.wikimedia.org/wiki/File:Miyako%27s_best_beach_(51924567535).jpg" target="_blank" rel="noreferrer">Raita Futo／Wikimedia Commons</a>，CC BY 2.0（裁切顯示）</span></div></footer>
+  <footer class="footer"><div class="shell">宮古島家庭旅行 · 最後查核 ${siteConfig.updated}<br><span class="photo-credit">首頁照片：<a href="https://commons.wikimedia.org/wiki/File:Miyako%27s_best_beach_(51924567535).jpg" target="_blank" rel="noreferrer">Raita Futo／Wikimedia Commons</a>，CC BY 2.0（裁切顯示）</span></div></footer>
   <script>
     const links = [...document.querySelectorAll('.single-site-nav .nav a')];
     const targets = links.map(link => document.querySelector(link.getAttribute('href'))).filter(Boolean);

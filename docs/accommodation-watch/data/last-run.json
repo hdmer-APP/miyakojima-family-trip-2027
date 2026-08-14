@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-08-14T03:20:22.287Z",
+  "mode": "full",
+  "target_property_ids": [
+    "white_shisa",
+    "private_ingya",
+    "villa_aparagi",
+    "villaze_maehama",
+    "villa_capri_3br",
+    "feliz_ueno_2br",
+    "the_villa_miyako",
+    "hotel_estrellas",
+    "villa_oloo"
+  ],
+  "observations_appended": 0,
+  "actionable_event_count": 0,
+  "result": "NO_ACTIONABLE_CHANGE",
+  "manual_check_required": [
+    "private_ingya",
+    "villa_aparagi",
+    "villaze_maehama"
+  ]
+}

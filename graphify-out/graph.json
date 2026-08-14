@@ -44,14 +44,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 index(\u8584\u7d22\u5f15,\u5207\u63db\u5fc5\u8b80)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-04\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-14\uff09",
       "file_type": "document",
       "source_file": "docs/INDEX.md",
       "source_location": "L5",
       "_origin": "ast",
-      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
+      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
       "community": 0,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-04)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-14)"
     },
     {
       "label": "\u9032\u5ea6",
@@ -84,6 +84,586 @@
       "norm_label": "\u5df2\u6c7a\u8b70(\u7d30\u7bc0\u898b roadmap.html)"
     },
     {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme",
+      "community": 5,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Accommodation Watch",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme_accommodation_watch",
+      "community": 5,
+      "norm_label": "accommodation watch"
+    },
+    {
+      "label": "\u6b63\u5f0f\u5165\u53e3",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme_\u6b63\u5f0f\u5165\u53e3",
+      "community": 5,
+      "norm_label": "\u6b63\u5f0f\u5165\u53e3"
+    },
+    {
+      "label": "\u57f7\u884c\u65b9\u5f0f",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme_\u57f7\u884c\u65b9\u5f0f",
+      "community": 5,
+      "norm_label": "\u57f7\u884c\u65b9\u5f0f"
+    },
+    {
+      "label": "\u6392\u7a0b",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L37",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme_\u6392\u7a0b",
+      "community": 5,
+      "norm_label": "\u6392\u7a0b"
+    },
+    {
+      "label": "\u72c0\u614b\u8a9e\u610f",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L46",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme_\u72c0\u614b\u8a9e\u610f",
+      "community": 5,
+      "norm_label": "\u72c0\u614b\u8a9e\u610f"
+    },
+    {
+      "label": "\u6210\u672c\u8207\u8a55\u5206",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L53",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme_\u6210\u672c\u8207\u8a55\u5206",
+      "community": 5,
+      "norm_label": "\u6210\u672c\u8207\u8a55\u5206"
+    },
+    {
+      "label": "\u4e0b\u6b21\u63a5\u7e8c",
+      "file_type": "document",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L59",
+      "_origin": "ast",
+      "id": "docs_accommodation_watch_readme_\u4e0b\u6b21\u63a5\u7e8c",
+      "community": 5,
+      "norm_label": "\u4e0b\u6b21\u63a5\u7e8c"
+    },
+    {
+      "label": "miyakojima-accommodation-watcher-routine.md",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine",
+      "community": 3,
+      "norm_label": "miyakojima-accommodation-watcher-routine.md"
+    },
+    {
+      "label": "Miyakojima Accommodation Watcher",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_miyakojima_accommodation_watcher",
+      "community": 9,
+      "norm_label": "miyakojima accommodation watcher"
+    },
+    {
+      "label": "0. \u4efb\u52d9\u76ee\u7684",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_0_\u4efb\u52d9\u76ee\u7684",
+      "community": 9,
+      "norm_label": "0. \u4efb\u52d9\u76ee\u7684"
+    },
+    {
+      "label": "1. \u56fa\u5b9a\u65c5\u884c\u689d\u4ef6",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_1_\u56fa\u5b9a\u65c5\u884c\u689d\u4ef6",
+      "community": 3,
+      "norm_label": "1. \u56fa\u5b9a\u65c5\u884c\u689d\u4ef6"
+    },
+    {
+      "label": "2. \u4f7f\u7528\u8005\u4f4f\u5bbf\u9700\u6c42",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L50",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_2_\u4f7f\u7528\u8005\u4f4f\u5bbf\u9700\u6c42",
+      "community": 8,
+      "norm_label": "2. \u4f7f\u7528\u8005\u4f4f\u5bbf\u9700\u6c42"
+    },
+    {
+      "label": "Hard / High Priority",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L52",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_hard_high_priority",
+      "community": 8,
+      "norm_label": "hard / high priority"
+    },
+    {
+      "label": "Strong Preference",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L68",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_strong_preference",
+      "community": 8,
+      "norm_label": "strong preference"
+    },
+    {
+      "label": "\u4f7f\u7528\u8005\u7279\u5225\u8208\u8da3",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L79",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_\u4f7f\u7528\u8005\u7279\u5225\u8208\u8da3",
+      "community": 8,
+      "norm_label": "\u4f7f\u7528\u8005\u7279\u5225\u8208\u8da3"
+    },
+    {
+      "label": "3. \u8a55\u5206\u539f\u5247",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L94",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_3_\u8a55\u5206\u539f\u5247",
+      "community": 3,
+      "norm_label": "3. \u8a55\u5206\u539f\u5247"
+    },
+    {
+      "label": "4. White Shisa Benchmark",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L113",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_4_white_shisa_benchmark",
+      "community": 3,
+      "norm_label": "4. white shisa benchmark"
+    },
+    {
+      "label": "5. Priority Properties",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L157",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "community": 4,
+      "norm_label": "5. priority properties"
+    },
+    {
+      "label": "S \u2014 PRIVATE INGYA",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L159",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_s_private_ingya",
+      "community": 4,
+      "norm_label": "s \u2014 private ingya"
+    },
+    {
+      "label": "S \u2014 Villa Aparagi Miyakojima",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L189",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_s_villa_aparagi_miyakojima",
+      "community": 4,
+      "norm_label": "s \u2014 villa aparagi miyakojima"
+    },
+    {
+      "label": "S \u2014 Villaze MAEHAMA BEACH",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L217",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_s_villaze_maehama_beach",
+      "community": 4,
+      "norm_label": "s \u2014 villaze maehama beach"
+    },
+    {
+      "label": "S/A \u2014 Villa Capri 3 Bedroom",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L243",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_s_a_villa_capri_3_bedroom",
+      "community": 4,
+      "norm_label": "s/a \u2014 villa capri 3 bedroom"
+    },
+    {
+      "label": "A \u2014 Feliz Villa Suite Miyakojima Ueno\uff08\u4f7f\u7528\u8005\u9ad8\u8208\u8da3\uff09",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L270",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_a_feliz_villa_suite_miyakojima_ueno_\u4f7f\u7528\u8005\u9ad8\u8208\u8da3",
+      "community": 4,
+      "norm_label": "a \u2014 feliz villa suite miyakojima ueno(\u4f7f\u7528\u8005\u9ad8\u8208\u8da3)"
+    },
+    {
+      "label": "\u70ba\u4ec0\u9ebc\u7279\u5225\u503c\u5f97\u8ffd\u8e64",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L296",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_\u70ba\u4ec0\u9ebc\u7279\u5225\u503c\u5f97\u8ffd\u8e64",
+      "community": 4,
+      "norm_label": "\u70ba\u4ec0\u9ebc\u7279\u5225\u503c\u5f97\u8ffd\u8e64"
+    },
+    {
+      "label": "\u5fc5\u9808\u6301\u7e8c\u67e5\u8b49\uff0c\u4e0d\u5f97\u731c\u6e2c",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L309",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_\u5fc5\u9808\u6301\u7e8c\u67e5\u8b49_\u4e0d\u5f97\u731c\u6e2c",
+      "community": 4,
+      "norm_label": "\u5fc5\u9808\u6301\u7e8c\u67e5\u8b49,\u4e0d\u5f97\u731c\u6e2c"
+    },
+    {
+      "label": "A \u2014 The Villa Miyako",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L333",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_a_the_villa_miyako",
+      "community": 4,
+      "norm_label": "a \u2014 the villa miyako"
+    },
+    {
+      "label": "A/B \u2014 Hotel ESTRELLAS",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L358",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_a_b_hotel_estrellas",
+      "community": 4,
+      "norm_label": "a/b \u2014 hotel estrellas"
+    },
+    {
+      "label": "B \u2014 Villa OLOO",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L396",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_b_villa_oloo",
+      "community": 4,
+      "norm_label": "b \u2014 villa oloo"
+    },
+    {
+      "label": "6. \u53ef\u64f4\u5145\u641c\u5c0b",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L417",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_6_\u53ef\u64f4\u5145\u641c\u5c0b",
+      "community": 3,
+      "norm_label": "6. \u53ef\u64f4\u5145\u641c\u5c0b"
+    },
+    {
+      "label": "7. \u6bcf\u6b21 Routine \u5fc5\u9808\u6536\u96c6\u7684 Schema",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L446",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_7_\u6bcf\u6b21_routine_\u5fc5\u9808\u6536\u96c6\u7684_schema",
+      "community": 3,
+      "norm_label": "7. \u6bcf\u6b21 routine \u5fc5\u9808\u6536\u96c6\u7684 schema"
+    },
+    {
+      "label": "8. \u4e0d\u5f97\u731c\u6e2c\u8cc7\u6599",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L523",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_8_\u4e0d\u5f97\u731c\u6e2c\u8cc7\u6599",
+      "community": 3,
+      "norm_label": "8. \u4e0d\u5f97\u731c\u6e2c\u8cc7\u6599"
+    },
+    {
+      "label": "9. Source Priority",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L539",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_9_source_priority",
+      "community": 3,
+      "norm_label": "9. source priority"
+    },
+    {
+      "label": "10. 2027 Okinawa Accommodation Tax",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L556",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_10_2027_okinawa_accommodation_tax",
+      "community": 3,
+      "norm_label": "10. 2027 okinawa accommodation tax"
+    },
+    {
+      "label": "11. Currency Conversion",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L573",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_11_currency_conversion",
+      "community": 3,
+      "norm_label": "11. currency conversion"
+    },
+    {
+      "label": "12. Effective Cost",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L587",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_12_effective_cost",
+      "community": 3,
+      "norm_label": "12. effective cost"
+    },
+    {
+      "label": "13. White Shisa Upgrade Cost",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L605",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_13_white_shisa_upgrade_cost",
+      "community": 3,
+      "norm_label": "13. white shisa upgrade cost"
+    },
+    {
+      "label": "14. Recommendation Score",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L623",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_14_recommendation_score",
+      "community": 7,
+      "norm_label": "14. recommendation score"
+    },
+    {
+      "label": "Toilets",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L640",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_toilets",
+      "community": 7,
+      "norm_label": "toilets"
+    },
+    {
+      "label": "Bathrooms\uff0fShowers",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L648",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_bathrooms_showers",
+      "community": 7,
+      "norm_label": "bathrooms/showers"
+    },
+    {
+      "label": "Elderly Friendliness",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L658",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_elderly_friendliness",
+      "community": 7,
+      "norm_label": "elderly friendliness"
+    },
+    {
+      "label": "Sleeping Comfort",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L667",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_sleeping_comfort",
+      "community": 7,
+      "norm_label": "sleeping comfort"
+    },
+    {
+      "label": "15. Notification Rules",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L680",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_15_notification_rules",
+      "community": 10,
+      "norm_label": "15. notification rules"
+    },
+    {
+      "label": "Feliz \u5c08\u5c6c\u901a\u77e5\u8a3b\u8a18",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L702",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_feliz_\u5c08\u5c6c\u901a\u77e5\u8a3b\u8a18",
+      "community": 10,
+      "norm_label": "feliz \u5c08\u5c6c\u901a\u77e5\u8a3b\u8a18"
+    },
+    {
+      "label": "16. High Priority Alert",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L716",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_16_high_priority_alert",
+      "community": 3,
+      "norm_label": "16. high priority alert"
+    },
+    {
+      "label": "17. S-Class Availability Alert",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L731",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_17_s_class_availability_alert",
+      "community": 3,
+      "norm_label": "17. s-class availability alert"
+    },
+    {
+      "label": "18. Output Format",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L748",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_18_output_format",
+      "community": 3,
+      "norm_label": "18. output format"
+    },
+    {
+      "label": "19. Comparison Table",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L819",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_19_comparison_table",
+      "community": 3,
+      "norm_label": "19. comparison table"
+    },
+    {
+      "label": "20. Price History",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L838",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_20_price_history",
+      "community": 3,
+      "norm_label": "20. price history"
+    },
+    {
+      "label": "21. Booking Link Requirement",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L859",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_21_booking_link_requirement",
+      "community": 3,
+      "norm_label": "21. booking link requirement"
+    },
+    {
+      "label": "22. Existing URLs",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L867",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_22_existing_urls",
+      "community": 3,
+      "norm_label": "22. existing urls"
+    },
+    {
+      "label": "23. Update Existing Trip Website",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L902",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_23_update_existing_trip_website",
+      "community": 3,
+      "norm_label": "23. update existing trip website"
+    },
+    {
+      "label": "24. Website Ranking",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L946",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_24_website_ranking",
+      "community": 3,
+      "norm_label": "24. website ranking"
+    },
+    {
+      "label": "25. Recommendation Logic",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L973",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_25_recommendation_logic",
+      "community": 3,
+      "norm_label": "25. recommendation logic"
+    },
+    {
+      "label": "26. Important Philosophy",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1018",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_26_important_philosophy",
+      "community": 3,
+      "norm_label": "26. important philosophy"
+    },
+    {
+      "label": "27. Final Goal",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1038",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_27_final_goal",
+      "community": 3,
+      "norm_label": "27. final goal"
+    },
+    {
+      "label": "28. Implementation Requirement",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1082",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_28_implementation_requirement",
+      "community": 3,
+      "norm_label": "28. implementation requirement"
+    },
+    {
+      "label": "29. Acceptance Criteria",
+      "file_type": "document",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1109",
+      "_origin": "ast",
+      "id": "docs_miyakojima_accommodation_watcher_routine_29_acceptance_criteria",
+      "community": 3,
+      "norm_label": "29. acceptance criteria"
+    },
+    {
       "label": "current.md",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
@@ -104,14 +684,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-04\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-14\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L3",
       "_origin": "ast",
-      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
       "community": 1,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-04)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-14)"
     },
     {
       "label": "\u4e0b\u4e00\u6b65",
@@ -127,11 +707,71 @@
       "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-08-03\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
-      "source_location": "L13",
+      "source_location": "L12",
       "_origin": "ast",
       "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
       "community": 1,
       "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-08-03)"
+    },
+    {
+      "label": "phase-05-accommodation-watch.md",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_05_accommodation_watch",
+      "community": 6,
+      "norm_label": "phase-05-accommodation-watch.md"
+    },
+    {
+      "label": "Phase 05 \u2014 Accommodation Watch\uff082026-08-14\uff09",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
+      "community": 6,
+      "norm_label": "phase 05 \u2014 accommodation watch(2026-08-14)"
+    },
+    {
+      "label": "\u9019\u6b21\u5b8c\u6210",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_progress_phase_05_accommodation_watch_\u9019\u6b21\u5b8c\u6210",
+      "community": 6,
+      "norm_label": "\u9019\u6b21\u5b8c\u6210"
+    },
+    {
+      "label": "\u9a57\u8b49",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "docs_progress_phase_05_accommodation_watch_\u9a57\u8b49",
+      "community": 6,
+      "norm_label": "\u9a57\u8b49"
+    },
+    {
+      "label": "\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "docs_progress_phase_05_accommodation_watch_\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
+      "community": 6,
+      "norm_label": "\u73fe\u5728\u9084\u6c92\u5b8c\u6210"
+    },
+    {
+      "label": "\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "docs_progress_phase_05_accommodation_watch_\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
+      "community": 6,
+      "norm_label": "\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c"
     }
   ],
   "links": [
@@ -162,7 +802,7 @@
       "source_location": "L5",
       "weight": 1.0,
       "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
-      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
+      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
       "confidence_score": 1.0
     },
     {
@@ -198,6 +838,566 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_accommodation_watch_readme",
+      "target": "docs_accommodation_watch_readme_accommodation_watch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "docs_accommodation_watch_readme_accommodation_watch",
+      "target": "docs_accommodation_watch_readme_\u4e0b\u6b21\u63a5\u7e8c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "docs_accommodation_watch_readme_accommodation_watch",
+      "target": "docs_accommodation_watch_readme_\u57f7\u884c\u65b9\u5f0f",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "docs_accommodation_watch_readme_accommodation_watch",
+      "target": "docs_accommodation_watch_readme_\u6210\u672c\u8207\u8a55\u5206",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "docs_accommodation_watch_readme_accommodation_watch",
+      "target": "docs_accommodation_watch_readme_\u6392\u7a0b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_accommodation_watch_readme_accommodation_watch",
+      "target": "docs_accommodation_watch_readme_\u6b63\u5f0f\u5165\u53e3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/accommodation-watch/README.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "docs_accommodation_watch_readme_accommodation_watch",
+      "target": "docs_accommodation_watch_readme_\u72c0\u614b\u8a9e\u610f",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L556",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_10_2027_okinawa_accommodation_tax",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L573",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_11_currency_conversion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L587",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_12_effective_cost",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L605",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_13_white_shisa_upgrade_cost",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L623",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_14_recommendation_score",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L680",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_15_notification_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L716",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_16_high_priority_alert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L731",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_17_s_class_availability_alert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L748",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_18_output_format",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L819",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_19_comparison_table",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_1_\u56fa\u5b9a\u65c5\u884c\u689d\u4ef6",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L838",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_20_price_history",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L859",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_21_booking_link_requirement",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L867",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_22_existing_urls",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L902",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_23_update_existing_trip_website",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L946",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_24_website_ranking",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L973",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_25_recommendation_logic",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1018",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_26_important_philosophy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1038",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_27_final_goal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1082",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_28_implementation_requirement",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1109",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_29_acceptance_criteria",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_2_\u4f7f\u7528\u8005\u4f4f\u5bbf\u9700\u6c42",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_3_\u8a55\u5206\u539f\u5247",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_4_white_shisa_benchmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L157",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L417",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_6_\u53ef\u64f4\u5145\u641c\u5c0b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L446",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_7_\u6bcf\u6b21_routine_\u5fc5\u9808\u6536\u96c6\u7684_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L523",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_8_\u4e0d\u5f97\u731c\u6e2c\u8cc7\u6599",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L539",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_9_source_priority",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine",
+      "target": "docs_miyakojima_accommodation_watcher_routine_miyakojima_accommodation_watcher",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_miyakojima_accommodation_watcher",
+      "target": "docs_miyakojima_accommodation_watcher_routine_0_\u4efb\u52d9\u76ee\u7684",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_2_\u4f7f\u7528\u8005\u4f4f\u5bbf\u9700\u6c42",
+      "target": "docs_miyakojima_accommodation_watcher_routine_hard_high_priority",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_2_\u4f7f\u7528\u8005\u4f4f\u5bbf\u9700\u6c42",
+      "target": "docs_miyakojima_accommodation_watcher_routine_strong_preference",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_2_\u4f7f\u7528\u8005\u4f4f\u5bbf\u9700\u6c42",
+      "target": "docs_miyakojima_accommodation_watcher_routine_\u4f7f\u7528\u8005\u7279\u5225\u8208\u8da3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L358",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_a_b_hotel_estrellas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L270",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_a_feliz_villa_suite_miyakojima_ueno_\u4f7f\u7528\u8005\u9ad8\u8208\u8da3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L333",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_a_the_villa_miyako",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L396",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_b_villa_oloo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L243",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_s_a_villa_capri_3_bedroom",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_s_private_ingya",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L189",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_s_villa_aparagi_miyakojima",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_5_priority_properties",
+      "target": "docs_miyakojima_accommodation_watcher_routine_s_villaze_maehama_beach",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L309",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_a_feliz_villa_suite_miyakojima_ueno_\u4f7f\u7528\u8005\u9ad8\u8208\u8da3",
+      "target": "docs_miyakojima_accommodation_watcher_routine_\u5fc5\u9808\u6301\u7e8c\u67e5\u8b49_\u4e0d\u5f97\u731c\u6e2c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L296",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_a_feliz_villa_suite_miyakojima_ueno_\u4f7f\u7528\u8005\u9ad8\u8208\u8da3",
+      "target": "docs_miyakojima_accommodation_watcher_routine_\u70ba\u4ec0\u9ebc\u7279\u5225\u503c\u5f97\u8ffd\u8e64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L648",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_14_recommendation_score",
+      "target": "docs_miyakojima_accommodation_watcher_routine_bathrooms_showers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L658",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_14_recommendation_score",
+      "target": "docs_miyakojima_accommodation_watcher_routine_elderly_friendliness",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L667",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_14_recommendation_score",
+      "target": "docs_miyakojima_accommodation_watcher_routine_sleeping_comfort",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L640",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_14_recommendation_score",
+      "target": "docs_miyakojima_accommodation_watcher_routine_toilets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/miyakojima-accommodation-watcher-routine.md",
+      "source_location": "L702",
+      "weight": 1.0,
+      "source": "docs_miyakojima_accommodation_watcher_routine_15_notification_rules",
+      "target": "docs_miyakojima_accommodation_watcher_routine_feliz_\u5c08\u5c6c\u901a\u77e5\u8a3b\u8a18",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "docs/progress/current.md",
       "source_location": "L1",
       "weight": 1.0,
@@ -212,7 +1412,7 @@
       "source_location": "L3",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_04",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
       "confidence_score": 1.0
     },
     {
@@ -229,13 +1429,63 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/progress/current.md",
-      "source_location": "L13",
+      "source_location": "L12",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
       "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
       "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_progress_phase_05_accommodation_watch",
+      "target": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
+      "target": "docs_progress_phase_05_accommodation_watch_\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
+      "target": "docs_progress_phase_05_accommodation_watch_\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
+      "target": "docs_progress_phase_05_accommodation_watch_\u9019\u6b21\u5b8c\u6210",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-05-accommodation-watch.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
+      "target": "docs_progress_phase_05_accommodation_watch_\u9a57\u8b49",
+      "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "790bd9327b2d6e68f03ba2586b4e132be4136275"
+  "built_at_commit": "d0356ee68097c9d5a929761f37225cd859628f70"
 }

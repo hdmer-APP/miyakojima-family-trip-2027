@@ -1,0 +1,28 @@
+[
+  {
+    "property_id": "villa_aparagi",
+    "property_name": "Villa Aparagi Miyakojima",
+    "check_in": "2027-05-13",
+    "check_out": "2027-05-17",
+    "guests": 5,
+    "nights": 4,
+    "availability_status": "AVAILABLE",
+    "room_or_villa_type": "Entire villa",
+    "currency": "JPY",
+    "final_total_jpy": 250000,
+    "final_total_twd": null,
+    "tax_status": "EXCLUDED",
+    "taxable_rate_per_person_per_night_jpy": 12000,
+    "free_cancellation": true,
+    "free_cancellation_deadline": "2027-04-15T23:59:00+09:00",
+    "cancellation_policy": "Free cancellation until 2027-04-15",
+    "payment_timing": "Pay at property",
+    "rental_car_included": false,
+    "source_urls": [
+      "https://villa-aparagi.booking.chillnn.com/ja/"
+    ],
+    "checked_at": "2026-08-14T12:00:00+08:00",
+    "confidence": "HIGH",
+    "notes": "範例資料，請複製到專案暫存區修改後再用 --input 匯入；不要直接當成真實房價。"
+  }
+]
