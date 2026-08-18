@@ -10,7 +10,7 @@
 - 價格歷史：`data/price-history.json`
 - 上次執行摘要：`data/last-run.json`
 
-需求來源為 `docs/miyakojima-accommodation-watcher-routine.md`。White Shisa 的原始 Benchmark `NT$32,676` 永久保留；最新價格另行計算，不覆寫原始值。
+需求來源為 `docs/miyakojima-accommodation-watcher-routine.md`。5 位成人、4 晚的住宿顯示總價以 `NT$50,000` 為硬上限；超過上限仍保留歷史，但不產生推薦通知。White Shisa 的原始 Benchmark `NT$32,676` 永久保留；最新價格另行計算，不覆寫原始值。
 
 ## 執行方式
 
@@ -36,7 +36,7 @@ node docs/build-standalone.cjs
 
 ## 排程
 
-- 每天 08:30（Asia/Taipei）：White Shisa、PRIVATE INGYA、Villa Aparagi、Villaze、Villa Capri 3BR、Feliz 快查。
+- 每天 08:30（Asia/Taipei）：White Shisa、PRIVATE INGYA、Villa Aparagi、Villaze、Villa Capri 3BR、Feliz，以及兩個五萬元內 Airbnb 候選快查。
 - 每週一與週四：完整檢查全部候選、宿泊稅、匯率、取消條款、租車優惠及新 Villa。
 - 2026-11-14 起：距出發約 180 天，改為每日完整檢查。
 - 沒有重要變化時只輸出 `NO ACTIONABLE CHANGE`。
@@ -52,7 +52,7 @@ node docs/build-standalone.cjs
 
 ## 成本與評分
 
-Effective Cost 只有在顯示價、宿泊稅狀態及可量化租車價值都足夠時才會計算。2027/5 的宮古島住宿適用市／縣合計 2% 宿泊稅；稅基是每人每晚純住宿費，1,000 日圓以下捨去，故不能從含其他費用的總價硬拆。
+預算門檻以訂房頁的住宿顯示總價判斷；2027 宿泊稅或強制費用若未明示，仍另外標為待確認。Effective Cost 只有在顯示價、宿泊稅狀態及可量化租車價值都足夠時才會計算。2027/5 的宮古島住宿適用市／縣合計 2% 宿泊稅；稅基是每人每晚純住宿費，1,000 日圓以下捨去，故不能從含其他費用的總價硬拆。
 
 100 分制依需求文件實作：Toilet 15、Bathroom／Shower 15、長輩友善 15、正式床位 15、Bedroom 10、廚房／洗衣 10、海灘體驗 10、有效價格 10。缺少硬資料時得分為 0 或按明定的未知規則計分，頁面會標為「暫定」。
 

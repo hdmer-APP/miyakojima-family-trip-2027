@@ -418,6 +418,8 @@ washer: true
 
 Routine 不得永遠只看上述住宿。每次完整掃描時，可以搜尋新的宮古島住宿。
 
+住宿顯示總價硬上限：`NT$50,000`（2027/05/13–05/17、5 位成人、4 晚）。超過上限的結果可保留歷史，但不得列入推薦或通知；宿泊稅與強制費用未明示時仍需標記 `UNKNOWN`。
+
 新住宿只有符合以下條件才加入 Watch List：
 
 ```text
@@ -693,10 +695,12 @@ Routine 可以每日執行，但**不要每天通知相同結果**。只有符�
 9. New property discovered satisfying:
    toilets >= 2
    bedrooms >= 2
-   bathrooms >= 2
+   bathrooms/showers >= 2
    kitchen = true
 10. Important facility information becomes confirmed
     e.g. UNKNOWN toilet count -> 2 toilets
+11. All alerts above require displayed accommodation total <= NT$50,000
+    If price is UNKNOWN or over budget, keep tracking silently
 ```
 
 ### Feliz 專屬通知註記
@@ -730,7 +734,7 @@ AND upgrade_cost <= NT$20,000
 
 # 17. S-Class Availability Alert
 
-以下住宿即使 `upgrade_cost > NT$20,000`，只要第一次出現 `AVAILABLE`，仍然通知一次：
+以下住宿只要顯示總價仍在 `NT$50,000` 硬上限內，即使 `upgrade_cost > NT$20,000`，第一次出現 `AVAILABLE` 仍通知一次：
 
 ```text
 PRIVATE INGYA

@@ -18,6 +18,12 @@
     "full_daily_from": "2026-11-14",
     "notification_policy": "ACTIONABLE_CHANGES_ONLY"
   },
+  "budget": {
+    "maximum_total_twd": 50000,
+    "basis": "displayed_accommodation_total_twd",
+    "hard_limit": true,
+    "note": "5 位成人／4 晚住宿顯示總價上限。宿泊稅或強制費用未確認時仍須另外標示，不可假設已含。"
+  },
   "currency": {
     "pair": "JPY/TWD",
     "jpy_to_twd": 0.2028,
@@ -245,6 +251,70 @@
         "beach_drive_minutes": null
       },
       "notes": "🐢 海龜活動區附近，不保證目擊。🏖️ 目標棟別步行路線與沖洗動線待確認。👵 長輩可留在 Villa，其他家人步行玩海。Toilet 與 Bathroom 在官方確認前維持 UNKNOWN；兩者均至少 2 才升 S。"
+    },
+    {
+      "id": "nangoku_ryoso_island",
+      "property_name": "南國旅荘アイランド",
+      "priority": "A",
+      "quick_watch": true,
+      "official_url": "https://385island.com/",
+      "booking_url": "https://www.airbnb.com.tw/rooms/44113904?check_in=2027-05-13&check_out=2027-05-17&guests=5&adults=5",
+      "facilities": {
+        "bedrooms": 5,
+        "real_beds": 5,
+        "real_bed_capacity": 5,
+        "sofa_beds": 0,
+        "futons": 5,
+        "comfortable_for_5_adults": true,
+        "toilets": 2,
+        "bathrooms": 0,
+        "showers": 2,
+        "washbasins": 3,
+        "single_story": null,
+        "stairs_required_for_elderly_guest": null,
+        "kitchen": true,
+        "washer": true,
+        "dryer": true,
+        "dishwasher": null,
+        "private_pool": false,
+        "bbq": true,
+        "beach_name": "與那霸前濱海灘",
+        "beach_walk_minutes": null,
+        "beach_drive_minutes": 5
+      },
+      "notes": "Airbnb 目標日期顯示 5 人 4 晚 NT$40,653；5 Bedroom、2 Shower、2 Toilet、完整廚房及洗衣乾衣設備。長輩無階差動線與 2027 宿泊稅仍待確認。"
+    },
+    {
+      "id": "airbnb_central_4br_2shower",
+      "property_name": "繁華街區 4 房整層住宿（Airbnb）",
+      "priority": "B",
+      "quick_watch": true,
+      "official_url": "https://www.airbnb.com.tw/rooms/1740296204787382563",
+      "booking_url": "https://www.airbnb.com.tw/rooms/1740296204787382563?check_in=2027-05-13&check_out=2027-05-17&adults=5",
+      "facilities": {
+        "bedrooms": 4,
+        "real_beds": 4,
+        "real_bed_capacity": 4,
+        "sofa_beds": 0,
+        "futons": 5,
+        "comfortable_for_5_adults": true,
+        "toilets": 2,
+        "bathrooms": 0,
+        "showers": 2,
+        "washbasins": null,
+        "single_story": null,
+        "stairs_required_for_elderly_guest": true,
+        "kitchen": true,
+        "washer": true,
+        "dryer": null,
+        "dishwasher": null,
+        "private_pool": null,
+        "bbq": true,
+        "beach_name": "",
+        "beach_walk_minutes": null,
+        "beach_drive_minutes": null
+      },
+      "notes": "Airbnb 目標日期顯示 5 人 4 晚 NT$45,177；2 Shower、2 Toilet、廚房與洗衣機。整個二樓且僅能走樓梯，新上架零評價，繁華街夜間噪音風險較高。"
     },
     {
       "id": "the_villa_miyako",

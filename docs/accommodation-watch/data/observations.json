@@ -404,5 +404,54 @@
       "private_pool": true
     },
     "notes": "官方 Chillnn 訂房引擎顯示 2027/5/13–5/17、5 位成人的 2 Bedroom Type 可訂。套用『連泊プラン（3連泊～）連泊特典付』與 3–4 連泊折扣 JPY 47,725 後，總價由 JPY 477,250 降為 JPY 429,525。房型 115㎡、4 張半雙人床與 3 組布團、私人泳池。頁面標示税込但另有沖繩宿泊稅提示，未顯示稅額或是否包含，故宿泊稅維持 UNKNOWN。"
+  },
+  {
+    "property_id": "nangoku_ryoso_island",
+    "property_name": "南國旅荘アイランド",
+    "check_in": "2027-05-13",
+    "check_out": "2027-05-17",
+    "guests": 5,
+    "nights": 4,
+    "availability_status": "AVAILABLE",
+    "room_or_villa_type": "Entire home · 5 bedrooms",
+    "currency": "TWD",
+    "final_total_twd": 40653,
+    "tax_status": "UNKNOWN",
+    "free_cancellation": true,
+    "free_cancellation_deadline": "2027-05-08",
+    "cancellation_policy": "Airbnb 頁面顯示 2027-05-08 前可免費取消；入住前取消可獲部分退款，精確時點以付款頁為準。",
+    "payment_timing": "Airbnb 頁面顯示目前不會收費；實際扣款時點須在付款流程確認。",
+    "rental_car_included": false,
+    "source_urls": [
+      "https://385island.com/",
+      "https://www.airbnb.com.tw/rooms/44113904?check_in=2027-05-13&check_out=2027-05-17&guests=5&adults=5"
+    ],
+    "checked_at": "2026-08-18T14:20:47+08:00",
+    "confidence": "HIGH",
+    "notes": "Airbnb 公開頁面以 2027/5/13–5/17、5 位成人查詢，顯示 4 晚 NT$40,653 且標示價格包含所有費用；因未明確說明 2027 宮古島／沖繩宿泊稅，稅務狀態維持 UNKNOWN。頁面列出整棟、5 房、10 床、2 淋浴、2 廁所、完整廚房及洗衣乾衣設備。"
+  },
+  {
+    "property_id": "airbnb_central_4br_2shower",
+    "property_name": "繁華街區 4 房整層住宿（Airbnb）",
+    "check_in": "2027-05-13",
+    "check_out": "2027-05-17",
+    "guests": 5,
+    "nights": 4,
+    "availability_status": "AVAILABLE",
+    "room_or_villa_type": "Entire second floor · 4 bedrooms",
+    "currency": "TWD",
+    "final_total_twd": 45177,
+    "tax_status": "UNKNOWN",
+    "free_cancellation": true,
+    "free_cancellation_deadline": "2027-04-13",
+    "cancellation_policy": "Airbnb 頁面顯示 2027-04-13 前可免費取消，2027-05-06 前取消可獲部分退款；精確時點以付款頁為準。",
+    "payment_timing": "Airbnb 頁面顯示目前不會收費；實際扣款時點須在付款流程確認。",
+    "rental_car_included": false,
+    "source_urls": [
+      "https://www.airbnb.com.tw/rooms/1740296204787382563?check_in=2027-05-13&check_out=2027-05-17&adults=5"
+    ],
+    "checked_at": "2026-08-18T14:20:47+08:00",
+    "confidence": "HIGH",
+    "notes": "Airbnb 公開頁面以 2027/5/13–5/17、5 位成人查詢，顯示 4 晚 NT$45,177。頁面列出整個二樓、4 房、9 床、2 淋浴、2 廁所、廚房、洗衣機及 3 車位；僅能走樓梯，且為零評價新上架住宿。宿泊稅未明確說明，維持 UNKNOWN。"
   }
 ]

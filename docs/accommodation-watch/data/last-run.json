@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-18T01:38:42.424Z",
+  "checked_at": "2026-08-18T06:23:23.134Z",
   "mode": "quick",
   "target_property_ids": [
     "white_shisa",
@@ -7,10 +7,12 @@
     "villa_aparagi",
     "villaze_maehama",
     "villa_capri_3br",
-    "feliz_ueno_2br"
+    "feliz_ueno_2br",
+    "nangoku_ryoso_island",
+    "airbnb_central_4br_2shower"
   ],
-  "observations_appended": 6,
-  "actionable_event_count": 4,
+  "observations_appended": 0,
+  "actionable_event_count": 2,
   "result": "ACTIONABLE_CHANGE",
   "manual_check_required": []
 }

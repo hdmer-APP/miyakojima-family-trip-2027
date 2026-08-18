@@ -41,6 +41,9 @@ function calculateAccommodationTax({ taxable_rate_per_person_per_night_jpy, gues
 
 function validateConfig(config) {
   if (!config.trip || !Array.isArray(config.properties)) throw new Error('config 缺少 trip 或 properties');
+  if (config.budget?.hard_limit === true && !isNumber(config.budget.maximum_total_twd)) {
+    throw new Error('硬性住宿預算需要有效的 maximum_total_twd');
+  }
   const ids = new Set();
   for (const property of config.properties) {
     if (!property.id || !property.property_name) throw new Error('每個住宿都需要 id 與 property_name');
@@ -231,11 +234,17 @@ function getCurrentRows(config, observations) {
     const displayDifferenceTwd = isNumber(financial.display_price_twd)
       ? financial.display_price_twd - benchmarkDisplayTwd
       : null;
+    const budgetLimitTwd = config.budget?.maximum_total_twd;
+    const withinBudget = isNumber(budgetLimitTwd) && isNumber(financial.display_price_twd)
+      ? financial.display_price_twd <= budgetLimitTwd
+      : null;
+    const budgetEligible = config.budget?.hard_limit !== true || withinBudget === true;
     const upgradeCostTwd = isNumber(financial.effective_cost_twd) && isNumber(benchmarkEffectiveTwd)
       ? financial.effective_cost_twd - benchmarkEffectiveTwd
       : null;
     const bathroomsOrShowers = Math.max(facilities.bathrooms || 0, facilities.showers || 0) || null;
     const highPriority = observation?.availability_status === 'AVAILABLE'
+      && budgetEligible
       && facilities.toilets >= 2
       && bathroomsOrShowers >= 2
       && facilities.comfortable_for_5_adults === true
@@ -257,6 +266,8 @@ function getCurrentRows(config, observations) {
       effective_price_per_person_twd: isNumber(financial.effective_cost_twd) ? roundTwd(financial.effective_cost_twd / config.trip.guests) : null,
       upgrade_cost_vs_white_shisa_twd: upgradeCostTwd,
       displayed_price_difference_twd: displayDifferenceTwd,
+      budget_limit_twd: isNumber(budgetLimitTwd) ? budgetLimitTwd : null,
+      within_budget: withinBudget,
       score: score.total,
       score_breakdown: score.breakdown,
       score_is_provisional: !isNumber(financial.effective_cost_twd)
@@ -276,6 +287,8 @@ function detectEvents(config, observations, rows, nowIso) {
     const current = history.at(-1);
     const previous = history.length > 1 ? history.at(-2) : null;
     if (!current) continue;
+    const budgetEligible = config.budget?.hard_limit !== true || row.within_budget === true;
+    if (!budgetEligible) continue;
 
     if (current.availability_status === 'AVAILABLE') {
       if (!previous) events.push({ property_id: row.id, type: 'FIRST_AVAILABLE', detail: current.checked_at });
@@ -283,6 +296,10 @@ function detectEvents(config, observations, rows, nowIso) {
 
       const currentPrice = resolveDisplayPriceTwd(current, config.currency.jpy_to_twd);
       const previousPrice = resolveDisplayPriceTwd(previous, config.currency.jpy_to_twd);
+      const budgetLimitTwd = config.budget?.maximum_total_twd;
+      if (isNumber(budgetLimitTwd) && isNumber(currentPrice) && currentPrice <= budgetLimitTwd && isNumber(previousPrice) && previousPrice > budgetLimitTwd) {
+        events.push({ property_id: row.id, type: 'WITHIN_BUDGET', detail: `${previousPrice}->${currentPrice}` });
+      }
       if (isNumber(currentPrice) && isNumber(previousPrice) && previousPrice > 0) {
         const drop = (previousPrice - currentPrice) / previousPrice;
         if (drop >= 0.05) events.push({ property_id: row.id, type: 'PRICE_DROP_5_PERCENT', detail: `${previousPrice}->${currentPrice}` });
@@ -372,6 +389,12 @@ function escapeHtml(value) {
 function sortRows(rows) {
   return [...rows].sort((a, b) => {
     if (a.high_priority !== b.high_priority) return a.high_priority ? -1 : 1;
+    if (a.within_budget !== b.within_budget) {
+      if (a.within_budget === true) return -1;
+      if (b.within_budget === true) return 1;
+      if (a.within_budget === false) return 1;
+      if (b.within_budget === false) return -1;
+    }
     const status = (STATUS_ORDER[a.availability_status] ?? 9) - (STATUS_ORDER[b.availability_status] ?? 9);
     if (status !== 0) return status;
     if (a.score !== b.score) return b.score - a.score;
@@ -384,7 +407,17 @@ function sortRows(rows) {
 function buildRecommendation(row) {
   if (row.id === 'white_shisa') return '目前基準；保留原始價，付款前確認取消與完整無階差動線。';
   if (row.availability_status !== 'AVAILABLE') return '先保留追蹤；目前不能據此判定售罄。';
+  if (row.within_budget === false) return `超過 ${formatTwd(row.budget_limit_twd)} 硬上限；保留歷史，但不建議。`;
+  if (row.within_budget === null) return `總價未確認，暫時不能判定是否符合 ${formatTwd(row.budget_limit_twd)} 上限。`;
   if (row.high_priority) return '🔥 值得優先保留可免費取消方案。';
+  const meetsPhysicalGate = row.facilities.bedrooms >= 2
+    && row.facilities.toilets >= 2
+    && Math.max(row.facilities.bathrooms || 0, row.facilities.showers || 0) >= 2
+    && row.facilities.kitchen === true;
+  if (meetsPhysicalGate && row.facilities.stairs_required_for_elderly_guest === true) {
+    return '符合五萬預算與空間硬條件，但長輩必須走樓梯；只列備案。';
+  }
+  if (meetsPhysicalGate) return '符合五萬預算與空間硬條件；確認長輩動線、宿泊稅與付款時點後可優先保留。';
   if (!isNumber(row.effective_cost_twd)) return '已可訂；先確認宿泊稅、取消條款與付款時點，再決定是否換房。';
   if (row.upgrade_cost_vs_white_shisa_twd <= 20000 && row.facilities.toilets >= 2 && Math.max(row.facilities.bathrooms || 0, row.facilities.showers || 0) >= 2) {
     return '舒適度提升明顯，價差在門檻內；確認長輩動線後值得升級。';
@@ -416,6 +449,7 @@ ${renderFelizTags(row)}
     <div class="watch-price"><strong>${formatTwd(row.display_price_twd)}</strong><span>5 人／4 晚顯示價</span></div>
     <dl class="watch-facts">
       <div><dt>Effective</dt><dd>${formatTwd(row.effective_cost_twd)}</dd></div>
+      <div><dt>五萬預算</dt><dd>${row.within_budget === true ? '符合' : row.within_budget === false ? '超過' : '待確認'}</dd></div>
       <div><dt>比 White Shisa</dt><dd>${difference}</dd></div>
       <div><dt>Bedroom</dt><dd>${formatCount(f.bedrooms)}</dd></div>
       <div><dt>正式床位容量</dt><dd>${formatCount(f.real_bed_capacity, ' 人')}</dd></div>
@@ -458,7 +492,7 @@ function renderHtml(config, rows, events, runRecord) {
   </div></header>
   <main>
     <section class="shell hero document-hero watch-hero">
-      <div><span class="eyebrow">ACCOMMODATION WATCH</span><h1>不是找最豪華，<br>是找最值得換房。</h1><p class="lead">每天快查優先候選、每週一與週四完整掃描。只有房況、價格、取消方案或重要設施真正改變才通知。</p><div class="status-row"><span class="pill current">每日 08:30 快查</span><span class="pill">週一／週四完整掃描</span><span class="pill">5 位成人 · 4 晚</span></div></div>
+      <div><span class="eyebrow">ACCOMMODATION WATCH</span><h1>不是找最豪華，<br>是找五萬內最合適。</h1><p class="lead">每天快查優先候選、每週一與週四完整掃描。住宿顯示總價以 ${formatTwd(config.budget?.maximum_total_twd)} 為硬上限，超過上限不發推薦通知。</p><div class="status-row"><span class="pill current">每日 08:30 快查</span><span class="pill">週一／週四完整掃描</span><span class="pill">5 位成人 · 4 晚</span><span class="pill">總價 ≤ ${formatTwd(config.budget?.maximum_total_twd)}</span></div></div>
       <div class="card stay-highlight"><span class="eyebrow">CURRENT BOOKING</span><h3>White Shisa</h3><strong class="price-big">${formatTwd(benchmark?.display_price_twd)}</strong><small>原始 Benchmark ${formatTwd(config.benchmark.original_total_twd)} 永久保留；最新顯示價與宿泊稅狀態分開追蹤。</small></div>
     </section>
     <section class="shell section watch-summary">${alertHtml}
@@ -496,6 +530,7 @@ function buildTextReport(config, rows, events, checkedAt) {
       `PROPERTY: ${row.property_name}`,
       `STATUS: ${statusLabel(row.availability_status)}`,
       `PRICE: ${formatTwd(row.display_price_twd)}`,
+      `BUDGET LIMIT: ${formatTwd(config.budget?.maximum_total_twd)} (${row.within_budget === true ? 'WITHIN' : row.within_budget === false ? 'OVER' : 'UNKNOWN'})`,
       `EFFECTIVE: ${formatTwd(row.effective_cost_twd)}`,
       `WHITE SHISA CURRENT: ${formatTwd(benchmark?.display_price_twd)}`,
       `WHITE SHISA ORIGINAL BASELINE: ${formatTwd(config.benchmark.original_total_twd)}`,
