@@ -2,8 +2,8 @@
   "project": "宮古島家庭旅行",
   "subtitle": "2027.05.13 — 05.17 · 5 位大人 · 自駕",
   "brandMark": "MMY",
-  "updated": "2026-08-14",
-  "status": "住宿監看已啟動；White Shisa 最新顯示價約 NT$32,563，The Villa Miyako 約 NT$36,677，兩者均需確認 2027 宿泊稅與取消條款。",
+  "updated": "2026-08-18",
+  "status": "住宿監看有重要變化：White Shisa 降至 NT$25,414；Villa Aparagi 與 Feliz Ueno 2 Bedroom 官方訂房引擎已顯示可訂。三者仍需確認 2027 宿泊稅與付款條款。",
   "nav": [
     { "href": "index.html", "label": "旅程總覽" },
     { "href": "roadmap.html", "label": "每日行程" },
@@ -133,7 +133,7 @@
   "openIssues": [
     { "tag": "航班", "title": "星宇 2027 年 5 月尚無適用票價", "body": "2026-08-12 以 5 位成人查詢 5/13–5/17，官網回覆無適用票價或可售機位不足。5/13 是週四、5/17 是週一，符合現行台北—下地島基準班次；仍須等 2027 班表與票價正式開放。", "bodyMd": "2026-08-12 以 5 位成人查詢 5/13–5/17，官網回覆無適用票價或可售機位不足。5/13 是週四、5/17 是週一，符合現行台北—下地島基準班次；仍須等 2027 班表與票價正式開放。" },
     { "tag": "海上活動", "title": "透明獨木舟是 DAY 2 天候備選，不是保證項目", "body": "うみさんぽ平台資料標示 0–80 歲且評價 5.0／56 則，官方也提供牽引；但 79 歲仍須在預約前取得業者書面接受，並由業者依健康、風浪與潮汐決定是否下水。" },
-    { "tag": "住宿", "title": "住宿監看已啟動，完整成本仍待確認", "body": "2026-08-14 查詢時，White Shisa 顯示約 NT$32,563，The Villa Miyako 約 NT$36,677；2027/2/1 起宮古島住宿適用市／縣合計 2% 宿泊稅。訂房頁未明示含稅或取消條款時，Effective Cost 維持待確認。" }
+    { "tag": "住宿", "title": "White Shisa 降價，兩個候選首次取得官方可售結果", "body": "2026-08-18 查詢時，White Shisa 顯示 NT$25,414；Villa Aparagi 早鳥連泊方案 JPY 352,000，Feliz Ueno 2 Bedroom 連泊方案 JPY 429,525。兩個日圓方案按 2026-08-14 臺銀匯率約為 NT$71,386 與 NT$87,108；訂房頁未明示 2027 宿泊稅是否包含或付款時點，Effective Cost 維持待確認。" }
   ],
   "decisions": [
     { "item": "旅行日期", "decision": "改為母親節後一週：2027/5/13（四）至 5/17（一）。", "date": "2026-08-12" },
@@ -145,7 +145,8 @@
     { "item": "燒肉午餐", "decision": "DAY 2 徹頭徹尾、DAY 3 割烹焼肉 SUI；兩店都有豬肉，預約時另問純豬肉盤與分開烤網、烤夾。", "date": "2026-08-04" }
   ],
   "next": [
-    "以可免費取消條件保留 White Shisa 5/13–5/17；付款前確認總價、取消條款與完整無階差動線。",
+    "優先確認 White Shisa NT$25,414 方案的取消期限、付款時點、2027 宿泊稅與完整無階差動線；條件可接受再保留。",
+    "比較 Villa Aparagi JPY 352,000 與 Feliz Ueno 2 Bedroom JPY 429,525；先補齊宿泊稅、付款時點及長輩動線，再決定是否值得升級。",
     "持續查星宇 2027 年 5 月票價；開賣後確認 5/13 去、5/17 回的直飛班次與價格。",
     "先用可取消條件保留一台下地島機場 W2 級 MPV；航班確認後再校正取還車機場與時間。",
     "2027 年預約開放後，先向うみさんぽ書面確認 79 歲可參加、上下船協助、牽引與取消條件，再決定是否保留 DAY 2 上午。",
@@ -156,6 +157,6 @@
     "根目錄 index.html 是 GitHub Pages 的單頁版。",
     "公開網址：https://hdmer-app.github.io/miyakojima-family-trip-2027/",
     "租車頁以 Toyota／ORIX、交通部公路局官方資料整理；2027 正式車價仍待預約畫面確認。",
-    "住宿監看資料更新至 2026-08-14；White Shisa 與 The Villa Miyako 有可售結果，其餘候選依來源區分為未釋房／無房或需人工查核。監看核心、歷史資料與頁面位於 docs/accommodation-watch/ 與 docs/site/accommodation-watch.html。"
+    "住宿監看資料更新至 2026-08-18；White Shisa、Villa Aparagi 與 Feliz Ueno 2 Bedroom 有可售結果。PRIVATE INGYA、Villaze MAEHAMA 與 Villa Capri 由官方訂房引擎確認目前無法完成 5/13–5/17 四晚預訂。監看核心、歷史資料與頁面位於 docs/accommodation-watch/ 與 docs/site/accommodation-watch.html。"
   ]
 }

@@ -1,5 +1,9 @@
 {
   "notified_event_keys": [
-    "the_villa_miyako:FIRST_AVAILABLE:2026-08-14T11:00:00+08:00"
+    "feliz_ueno_2br:AVAILABLE_AGAIN:2026-08-18T09:37:32+08:00",
+    "the_villa_miyako:FIRST_AVAILABLE:2026-08-14T11:00:00+08:00",
+    "villa_aparagi:AVAILABLE_AGAIN:2026-08-18T09:37:32+08:00",
+    "villa_aparagi:S_CLASS_AVAILABLE:2026-08-18T09:37:32+08:00",
+    "white_shisa:PRICE_DROP_5_PERCENT:32563->25414"
   ]
 }

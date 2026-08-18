@@ -1,1 +1,54 @@
-NO ACTIONABLE CHANGE
+🏝️ Miyakojima Accommodation Alert
+
+Date checked: 2026-08-18
+Trip: 2027/05/13 → 05/17 · 5 adults / 4 nights
+
+PROPERTY: Private Villa White Shisa Miyakojima
+STATUS: 🟢 可訂
+PRICE: NT$25,414
+EFFECTIVE: 待確認
+WHITE SHISA CURRENT: NT$25,414
+WHITE SHISA ORIGINAL BASELINE: NT$32,676
+DIFFERENCE: +NT$0（顯示價差）
+EVENTS: PRICE_DROP_5_PERCENT
+CANCELLATION: 目標方案取消條款未由 Booking.com 公開查詢結果可靠提供，付款前確認
+BOOK: https://www.booking.com/hotel/jp/gong-gu-dao-white-shisa-howaitosisa.html?checkin=2027-05-13&checkout=2027-05-17&no_rooms=1&group_adults=5&selected_currency=TWD
+RECOMMENDATION: 目前基準；保留原始價，付款前確認取消與完整無階差動線。
+
+---
+
+🏝️ Miyakojima Accommodation Alert
+
+Date checked: 2026-08-18
+Trip: 2027/05/13 → 05/17 · 5 adults / 4 nights
+
+PROPERTY: Villa Aparagi Miyakojima
+STATUS: 🟢 可訂
+PRICE: NT$71,386
+EFFECTIVE: 待確認
+WHITE SHISA CURRENT: NT$25,414
+WHITE SHISA ORIGINAL BASELINE: NT$32,676
+DIFFERENCE: +NT$45,972（顯示價差）
+EVENTS: AVAILABLE_AGAIN, S_CLASS_AVAILABLE
+CANCELLATION: 官網一般條款：入住當日及 7 日前起收含稅價 100%；21 日前起收 80%
+BOOK: https://villa-aparagi.booking.chillnn.com/ja/
+RECOMMENDATION: 已可訂；先確認宿泊稅、取消條款與付款時點，再決定是否換房。
+
+---
+
+🏝️ Miyakojima Accommodation Alert
+
+Date checked: 2026-08-18
+Trip: 2027/05/13 → 05/17 · 5 adults / 4 nights
+
+PROPERTY: Feliz Villa Suite Miyakojima Ueno 2 Bedroom
+STATUS: 🟢 可訂
+PRICE: NT$87,108
+EFFECTIVE: 待確認
+WHITE SHISA CURRENT: NT$25,414
+WHITE SHISA ORIGINAL BASELINE: NT$32,676
+DIFFERENCE: +NT$61,694（顯示價差）
+EVENTS: AVAILABLE_AGAIN
+CANCELLATION: 官網一般條款：入住當日及前 1 日收含稅價 100%；6 日前起收 50%；更早期間條款付款前確認
+BOOK: https://nikken-hotelmgt.co.jp/ueno/
+RECOMMENDATION: 已可訂；先確認宿泊稅、取消條款與付款時點，再決定是否換房。

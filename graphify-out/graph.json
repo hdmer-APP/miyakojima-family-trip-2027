@@ -684,14 +684,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-14\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-18\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L3",
       "_origin": "ast",
-      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_18",
       "community": 1,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-14)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-18)"
     },
     {
       "label": "\u4e0b\u4e00\u6b65",
@@ -707,7 +707,7 @@
       "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-08-03\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
-      "source_location": "L12",
+      "source_location": "L13",
       "_origin": "ast",
       "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
       "community": 1,
@@ -757,7 +757,7 @@
       "label": "\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
       "file_type": "document",
       "source_file": "docs/progress/phase-05-accommodation-watch.md",
-      "source_location": "L22",
+      "source_location": "L23",
       "_origin": "ast",
       "id": "docs_progress_phase_05_accommodation_watch_\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
       "community": 6,
@@ -767,11 +767,71 @@
       "label": "\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
       "file_type": "document",
       "source_file": "docs/progress/phase-05-accommodation-watch.md",
-      "source_location": "L28",
+      "source_location": "L29",
       "_origin": "ast",
       "id": "docs_progress_phase_05_accommodation_watch_\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
       "community": 6,
       "norm_label": "\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c"
+    },
+    {
+      "label": "phase-06-accommodation-watch-20260818.md",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_06_accommodation_watch_20260818",
+      "community": 11,
+      "norm_label": "phase-06-accommodation-watch-20260818.md"
+    },
+    {
+      "label": "Phase 06 \u2014 \u4f4f\u5bbf\u76e3\u770b 2026-08-18 quick check",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_06_accommodation_watch_20260818_phase_06_\u4f4f\u5bbf\u76e3\u770b_2026_08_18_quick_check",
+      "community": 11,
+      "norm_label": "phase 06 \u2014 \u4f4f\u5bbf\u76e3\u770b 2026-08-18 quick check"
+    },
+    {
+      "label": "\u9019\u6b21\u5b8c\u6210",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_progress_phase_06_accommodation_watch_20260818_\u9019\u6b21\u5b8c\u6210",
+      "community": 11,
+      "norm_label": "\u9019\u6b21\u5b8c\u6210"
+    },
+    {
+      "label": "\u5224\u8b80\u754c\u7dda",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "docs_progress_phase_06_accommodation_watch_20260818_\u5224\u8b80\u754c\u7dda",
+      "community": 11,
+      "norm_label": "\u5224\u8b80\u754c\u7dda"
+    },
+    {
+      "label": "\u8cc7\u6599\u5165\u53e3",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "docs_progress_phase_06_accommodation_watch_20260818_\u8cc7\u6599\u5165\u53e3",
+      "community": 11,
+      "norm_label": "\u8cc7\u6599\u5165\u53e3"
+    },
+    {
+      "label": "\u4e0b\u4e00\u500b\u5177\u9ad4\u52d5\u4f5c",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "docs_progress_phase_06_accommodation_watch_20260818_\u4e0b\u4e00\u500b\u5177\u9ad4\u52d5\u4f5c",
+      "community": 11,
+      "norm_label": "\u4e0b\u4e00\u500b\u5177\u9ad4\u52d5\u4f5c"
     }
   ],
   "links": [
@@ -1412,7 +1472,7 @@
       "source_location": "L3",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_18",
       "confidence_score": 1.0
     },
     {
@@ -1429,7 +1489,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/progress/current.md",
-      "source_location": "L12",
+      "source_location": "L13",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
       "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
@@ -1449,7 +1509,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/progress/phase-05-accommodation-watch.md",
-      "source_location": "L28",
+      "source_location": "L29",
       "weight": 1.0,
       "source": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
       "target": "docs_progress_phase_05_accommodation_watch_\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
@@ -1459,7 +1519,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/progress/phase-05-accommodation-watch.md",
-      "source_location": "L22",
+      "source_location": "L23",
       "weight": 1.0,
       "source": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
       "target": "docs_progress_phase_05_accommodation_watch_\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
@@ -1484,8 +1544,58 @@
       "source": "docs_progress_phase_05_accommodation_watch_phase_05_accommodation_watch_2026_08_14",
       "target": "docs_progress_phase_05_accommodation_watch_\u9a57\u8b49",
       "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_progress_phase_06_accommodation_watch_20260818",
+      "target": "docs_progress_phase_06_accommodation_watch_20260818_phase_06_\u4f4f\u5bbf\u76e3\u770b_2026_08_18_quick_check",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "docs_progress_phase_06_accommodation_watch_20260818_phase_06_\u4f4f\u5bbf\u76e3\u770b_2026_08_18_quick_check",
+      "target": "docs_progress_phase_06_accommodation_watch_20260818_\u4e0b\u4e00\u500b\u5177\u9ad4\u52d5\u4f5c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "docs_progress_phase_06_accommodation_watch_20260818_phase_06_\u4f4f\u5bbf\u76e3\u770b_2026_08_18_quick_check",
+      "target": "docs_progress_phase_06_accommodation_watch_20260818_\u5224\u8b80\u754c\u7dda",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "docs_progress_phase_06_accommodation_watch_20260818_phase_06_\u4f4f\u5bbf\u76e3\u770b_2026_08_18_quick_check",
+      "target": "docs_progress_phase_06_accommodation_watch_20260818_\u8cc7\u6599\u5165\u53e3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-06-accommodation-watch-20260818.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_progress_phase_06_accommodation_watch_20260818_phase_06_\u4f4f\u5bbf\u76e3\u770b_2026_08_18_quick_check",
+      "target": "docs_progress_phase_06_accommodation_watch_20260818_\u9019\u6b21\u5b8c\u6210",
+      "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "d0356ee68097c9d5a929761f37225cd859628f70"
+  "built_at_commit": "da97b5a6b78da7167fe3583ab78520f9189fe43a"
 }
