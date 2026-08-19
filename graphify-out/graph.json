@@ -684,14 +684,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-18\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-19\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L3",
       "_origin": "ast",
-      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_18",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
       "community": 1,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-18)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-19)"
     },
     {
       "label": "\u4e0b\u4e00\u6b65",
@@ -1482,7 +1482,7 @@
       "source_location": "L3",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_18",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
       "confidence_score": 1.0
     },
     {
@@ -1617,5 +1617,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "3a6c6981a84a1fefe7a7defc5a564f4807414fec"
+  "built_at_commit": "156f97ff3e336397a68cac650e64b5ea25a33f15"
 }

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-18T06:23:23.134Z",
+  "checked_at": "2026-08-19T00:45:21.442Z",
   "mode": "quick",
   "target_property_ids": [
     "white_shisa",
@@ -11,8 +11,10 @@
     "nangoku_ryoso_island",
     "airbnb_central_4br_2shower"
   ],
-  "observations_appended": 0,
-  "actionable_event_count": 2,
-  "result": "ACTIONABLE_CHANGE",
-  "manual_check_required": []
+  "observations_appended": 8,
+  "actionable_event_count": 0,
+  "result": "NO_ACTIONABLE_CHANGE",
+  "manual_check_required": [
+    "feliz_ueno_2br"
+  ]
 }
