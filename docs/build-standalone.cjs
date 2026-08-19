@@ -69,7 +69,7 @@ const output = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="2027 年 5 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、平房包棟住宿、租車保險、透明獨木舟、燒肉午餐、特色商店與紀念品。">
+  <meta name="description" content="2027 年 5 月宮古島五天四夜家庭自駕旅行規劃：星宇航班、平房包棟住宿、租車保險、超市補給、低負擔夜間觀星、透明獨木舟與燒肉午餐。">
   <title>2027 宮古島家庭旅行｜5 天 4 夜</title>
   <style>${baseCss}\n${travelCss}</style>
 </head>
