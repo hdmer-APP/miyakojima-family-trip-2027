@@ -44,14 +44,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 index(\u8584\u7d22\u5f15,\u5207\u63db\u5fc5\u8b80)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-14\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-19\uff09",
       "file_type": "document",
       "source_file": "docs/INDEX.md",
       "source_location": "L5",
       "_origin": "ast",
-      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
+      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
       "community": 0,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-14)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-19)"
     },
     {
       "label": "\u9032\u5ea6",
@@ -77,7 +77,7 @@
       "label": "\u5df2\u6c7a\u8b70\uff08\u7d30\u7bc0\u898b roadmap.html\uff09",
       "file_type": "document",
       "source_file": "docs/INDEX.md",
-      "source_location": "L23",
+      "source_location": "L24",
       "_origin": "ast",
       "id": "docs_index_\u5df2\u6c7a\u8b70_\u7d30\u7bc0\u898b_roadmap_html",
       "community": 0,
@@ -684,14 +684,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-19\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-21\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L3",
       "_origin": "ast",
-      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_21",
       "community": 1,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-19)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-21)"
     },
     {
       "label": "\u4e0b\u4e00\u6b65",
@@ -704,14 +704,14 @@
       "norm_label": "\u4e0b\u4e00\u6b65"
     },
     {
-      "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-08-03\uff09",
+      "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-08-21\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
-      "source_location": "L14",
+      "source_location": "L15",
       "_origin": "ast",
-      "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
+      "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_21",
       "community": 1,
-      "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-08-03)"
+      "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-08-21)"
     },
     {
       "label": "phase-05-accommodation-watch.md",
@@ -842,6 +842,66 @@
       "id": "docs_progress_phase_06_accommodation_watch_20260818_\u540c\u65e5\u9810\u7b97\u6536\u6582",
       "community": 11,
       "norm_label": "\u540c\u65e5\u9810\u7b97\u6536\u6582"
+    },
+    {
+      "label": "phase-07-supply-stargazing-20260819.md",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_07_supply_stargazing_20260819",
+      "community": 12,
+      "norm_label": "phase-07-supply-stargazing-20260819.md"
+    },
+    {
+      "label": "Phase 07 \u2014 \u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f\uff082026-08-19\uff09",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_07_supply_stargazing_20260819_phase_07_\u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f_2026_08_19",
+      "community": 12,
+      "norm_label": "phase 07 \u2014 \u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f(2026-08-19)"
+    },
+    {
+      "label": "\u9019\u6b21\u5b8c\u6210",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_progress_phase_07_supply_stargazing_20260819_\u9019\u6b21\u5b8c\u6210",
+      "community": 12,
+      "norm_label": "\u9019\u6b21\u5b8c\u6210"
+    },
+    {
+      "label": "\u67e5\u6838\u7d50\u8ad6",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "docs_progress_phase_07_supply_stargazing_20260819_\u67e5\u6838\u7d50\u8ad6",
+      "community": 12,
+      "norm_label": "\u67e5\u6838\u7d50\u8ad6"
+    },
+    {
+      "label": "\u6b63\u5f0f\u5165\u53e3",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "docs_progress_phase_07_supply_stargazing_20260819_\u6b63\u5f0f\u5165\u53e3",
+      "community": 12,
+      "norm_label": "\u6b63\u5f0f\u5165\u53e3"
+    },
+    {
+      "label": "\u4e0b\u4e00\u6b65",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "docs_progress_phase_07_supply_stargazing_20260819_\u4e0b\u4e00\u6b65",
+      "community": 12,
+      "norm_label": "\u4e0b\u4e00\u6b65"
     }
   ],
   "links": [
@@ -872,14 +932,14 @@
       "source_location": "L5",
       "weight": 1.0,
       "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
-      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_14",
+      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/INDEX.md",
-      "source_location": "L23",
+      "source_location": "L24",
       "weight": 1.0,
       "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
       "target": "docs_index_\u5df2\u6c7a\u8b70_\u7d30\u7bc0\u898b_roadmap_html",
@@ -1482,7 +1542,7 @@
       "source_location": "L3",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_21",
       "confidence_score": 1.0
     },
     {
@@ -1499,10 +1559,10 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/progress/current.md",
-      "source_location": "L14",
+      "source_location": "L15",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_03",
+      "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_08_21",
       "confidence_score": 1.0
     },
     {
@@ -1614,8 +1674,58 @@
       "source": "docs_progress_phase_06_accommodation_watch_20260818_phase_06_\u4f4f\u5bbf\u76e3\u770b_2026_08_18_quick_check",
       "target": "docs_progress_phase_06_accommodation_watch_20260818_\u9019\u6b21\u5b8c\u6210",
       "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_progress_phase_07_supply_stargazing_20260819",
+      "target": "docs_progress_phase_07_supply_stargazing_20260819_phase_07_\u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f_2026_08_19",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "docs_progress_phase_07_supply_stargazing_20260819_phase_07_\u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f_2026_08_19",
+      "target": "docs_progress_phase_07_supply_stargazing_20260819_\u4e0b\u4e00\u6b65",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "docs_progress_phase_07_supply_stargazing_20260819_phase_07_\u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f_2026_08_19",
+      "target": "docs_progress_phase_07_supply_stargazing_20260819_\u67e5\u6838\u7d50\u8ad6",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "docs_progress_phase_07_supply_stargazing_20260819_phase_07_\u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f_2026_08_19",
+      "target": "docs_progress_phase_07_supply_stargazing_20260819_\u6b63\u5f0f\u5165\u53e3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-07-supply-stargazing-20260819.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_progress_phase_07_supply_stargazing_20260819_phase_07_\u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f_2026_08_19",
+      "target": "docs_progress_phase_07_supply_stargazing_20260819_\u9019\u6b21\u5b8c\u6210",
+      "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "156f97ff3e336397a68cac650e64b5ea25a33f15"
+  "built_at_commit": "40792b6089f73595cefc2878693220db8f30f1af"
 }

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-19T00:45:21.442Z",
+  "checked_at": "2026-08-21T00:54:48.042Z",
   "mode": "quick",
   "target_property_ids": [
     "white_shisa",
@@ -14,7 +14,5 @@
   "observations_appended": 8,
   "actionable_event_count": 0,
   "result": "NO_ACTIONABLE_CHANGE",
-  "manual_check_required": [
-    "feliz_ueno_2br"
-  ]
+  "manual_check_required": []
 }
