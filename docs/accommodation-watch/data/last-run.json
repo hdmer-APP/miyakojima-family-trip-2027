@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-21T00:54:48.042Z",
+  "checked_at": "2026-08-25T01:08:03.869Z",
   "mode": "quick",
   "target_property_ids": [
     "white_shisa",
@@ -14,5 +14,9 @@
   "observations_appended": 8,
   "actionable_event_count": 0,
   "result": "NO_ACTIONABLE_CHANGE",
-  "manual_check_required": []
+  "manual_check_required": [
+    "villa_aparagi",
+    "villa_capri_3br",
+    "feliz_ueno_2br"
+  ]
 }
