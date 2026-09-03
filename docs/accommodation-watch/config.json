@@ -26,10 +26,10 @@
   },
   "currency": {
     "pair": "JPY/TWD",
-    "jpy_to_twd": 0.2028,
+    "jpy_to_twd": 0.2054,
     "rate_kind": "Bank of Taiwan spot selling",
     "source": "https://rate.bot.com.tw/xrt?Lang=en-US",
-    "checked_at": "2026-08-14T10:43:00+08:00"
+    "checked_at": "2026-09-03T17:01:00+08:00"
   },
   "accommodation_tax": {
     "effective_from": "2027-02-01",

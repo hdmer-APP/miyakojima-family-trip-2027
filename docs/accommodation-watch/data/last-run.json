@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-09-02T01:08:10.108Z",
-  "mode": "quick",
+  "checked_at": "2026-09-03T23:22:58.369Z",
+  "mode": "full",
   "target_property_ids": [
     "white_shisa",
     "private_ingya",
@@ -9,9 +9,12 @@
     "villa_capri_3br",
     "feliz_ueno_2br",
     "nangoku_ryoso_island",
-    "airbnb_central_4br_2shower"
+    "airbnb_central_4br_2shower",
+    "the_villa_miyako",
+    "hotel_estrellas",
+    "villa_oloo"
   ],
-  "observations_appended": 8,
+  "observations_appended": 11,
   "actionable_event_count": 0,
   "result": "NO_ACTIONABLE_CHANGE",
   "manual_check_required": [
