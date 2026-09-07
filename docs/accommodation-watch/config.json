@@ -26,10 +26,10 @@
   },
   "currency": {
     "pair": "JPY/TWD",
-    "jpy_to_twd": 0.2054,
+    "jpy_to_twd": 0.2051,
     "rate_kind": "Bank of Taiwan spot selling",
     "source": "https://rate.bot.com.tw/xrt?Lang=en-US",
-    "checked_at": "2026-09-03T17:01:00+08:00"
+    "checked_at": "2026-09-07T07:51:00+08:00"
   },
   "accommodation_tax": {
     "effective_from": "2027-02-01",
@@ -250,7 +250,7 @@
         "beach_walk_minutes": null,
         "beach_drive_minutes": null
       },
-      "notes": "🐢 海龜活動區附近，不保證目擊。🏖️ 目標棟別步行路線與沖洗動線待確認。👵 長輩可留在 Villa，其他家人步行玩海。Toilet 與 Bathroom 在官方確認前維持 UNKNOWN；兩者均至少 2 才升 S。"
+      "notes": "🐢 海龜活動區附近，不保證目擊。🏖️ 目標棟別步行路線與沖洗動線待確認。👵 長輩可留在 Villa，其他家人步行玩海。官方訂房引擎已確認目標日期 5 人連泊方案 JPY 429,525；Toilet 與 Bathroom 在官方確認前維持 UNKNOWN，兩者均至少 2 才升 S。"
     },
     {
       "id": "nangoku_ryoso_island",
@@ -282,7 +282,7 @@
         "beach_walk_minutes": null,
         "beach_drive_minutes": 5
       },
-      "notes": "Airbnb 目標日期顯示 5 人 4 晚 NT$40,653；5 Bedroom、2 Shower、2 Toilet、完整廚房及洗衣乾衣設備。長輩無階差動線與 2027 宿泊稅仍待確認。"
+      "notes": "Airbnb 目標日期顯示 5 人 4 晚 NT$41,170；5 Bedroom、2 Shower、2 Toilet、完整廚房及洗衣乾衣設備。長輩無階差動線與 2027 宿泊稅仍待確認。"
     },
     {
       "id": "airbnb_central_4br_2shower",
@@ -314,7 +314,7 @@
         "beach_walk_minutes": null,
         "beach_drive_minutes": null
       },
-      "notes": "Airbnb 目標日期顯示 5 人 4 晚 NT$45,177；2 Shower、2 Toilet、廚房與洗衣機。整個二樓且僅能走樓梯，新上架零評價，繁華街夜間噪音風險較高。"
+      "notes": "Airbnb 目標日期顯示 5 人 4 晚 NT$45,752；2 Shower、2 Toilet、廚房與洗衣機。整個二樓且僅能走樓梯，新上架零評價，繁華街夜間噪音風險較高。"
     },
     {
       "id": "the_villa_miyako",
@@ -347,7 +347,7 @@
         "beach_walk_minutes": null,
         "beach_drive_minutes": null
       },
-      "notes": "長輩友善對照組：平房、2 Toilet、2 Bathroom、5 個正式床位。Booking 方案取消條款與 2027 宿泊稅仍須確認。"
+      "notes": "長輩友善對照組：平房、2 Toilet、2 Bathroom、5 個正式床位。Booking 已確認免費取消與延後付款期限；2027 宿泊稅是否完全含在平台稅費中仍須付款頁確認。"
     },
     {
       "id": "hotel_estrellas",

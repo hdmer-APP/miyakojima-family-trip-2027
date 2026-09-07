@@ -81,6 +81,15 @@ assert(events.some((event) => event.property_id === 'candidate' && event.type ==
 assert(events.some((event) => event.property_id === 'candidate' && event.type === 'HIGH_PRIORITY'));
 assert(!events.some((event) => event.property_id === 'over_budget'), '超過硬性預算不得產生通知');
 
+const freeCancellationHistory = [
+  baseObservation,
+  { ...candidateObservation, free_cancellation: null, checked_at: '2026-08-13T00:00:00+08:00' },
+  { ...candidateObservation, free_cancellation: true, free_cancellation_deadline: '2027-05-06', checked_at: '2026-08-14T00:00:00+08:00' },
+];
+const freeCancellationRows = getCurrentRows(config, freeCancellationHistory);
+const freeCancellationEvents = detectEvents(config, freeCancellationHistory, freeCancellationRows, '2026-08-14T00:00:00+08:00');
+assert(freeCancellationEvents.some((event) => event.property_id === 'candidate' && event.type === 'FREE_CANCELLATION_AVAILABLE'), '新確認的免費取消方案應通知一次');
+
 const existing = [baseObservation];
 const ids = new Set(['baseline', 'candidate']);
 assert.equal(appendObservations(existing, [baseObservation], ids, config.trip).length, 0, '相同 observation 不得重複追加');

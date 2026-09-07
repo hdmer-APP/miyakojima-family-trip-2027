@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-03T23:22:58.369Z",
+  "checked_at": "2026-09-07T01:07:29.181Z",
   "mode": "full",
   "target_property_ids": [
     "white_shisa",
@@ -15,9 +15,7 @@
     "villa_oloo"
   ],
   "observations_appended": 11,
-  "actionable_event_count": 0,
-  "result": "NO_ACTIONABLE_CHANGE",
-  "manual_check_required": [
-    "feliz_ueno_2br"
-  ]
+  "actionable_event_count": 2,
+  "result": "ACTIONABLE_CHANGE",
+  "manual_check_required": []
 }

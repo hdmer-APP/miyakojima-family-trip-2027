@@ -305,6 +305,14 @@ function detectEvents(config, observations, rows, nowIso) {
         if (drop >= 0.05) events.push({ property_id: row.id, type: 'PRICE_DROP_5_PERCENT', detail: `${previousPrice}->${currentPrice}` });
       }
 
+      if (current.free_cancellation === true && previous?.free_cancellation !== true) {
+        events.push({
+          property_id: row.id,
+          type: 'FREE_CANCELLATION_AVAILABLE',
+          detail: current.free_cancellation_deadline || current.checked_at,
+        });
+      }
+
       if ((row.priority === 'S' || row.priority === 'S/A') && (!previous || previous.availability_status !== 'AVAILABLE')) {
         events.push({ property_id: row.id, type: 'S_CLASS_AVAILABLE', detail: current.checked_at });
       }
