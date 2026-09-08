@@ -684,14 +684,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-09-07\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-09-08\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L3",
       "_origin": "ast",
-      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_07",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_08",
       "community": 1,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-09-07)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-09-08)"
     },
     {
       "label": "\u4e0b\u4e00\u6b65",
@@ -704,14 +704,14 @@
       "norm_label": "\u4e0b\u4e00\u6b65"
     },
     {
-      "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-09-07\uff09",
+      "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-09-08\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L16",
       "_origin": "ast",
-      "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_07",
+      "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_08",
       "community": 1,
-      "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-09-07)"
+      "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-09-08)"
     },
     {
       "label": "phase-05-accommodation-watch.md",
@@ -1542,7 +1542,7 @@
       "source_location": "L3",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_07",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_08",
       "confidence_score": 1.0
     },
     {
@@ -1562,7 +1562,7 @@
       "source_location": "L16",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_07",
+      "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_08",
       "confidence_score": 1.0
     },
     {
@@ -1727,5 +1727,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "d9142eab453625e9c57b8b9f6b0d16fdccc36906"
+  "built_at_commit": "90af8baa3f50c26ed010655b9b44dc503f5c05dc"
 }
