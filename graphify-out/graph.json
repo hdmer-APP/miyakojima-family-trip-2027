@@ -44,14 +44,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 index(\u8584\u7d22\u5f15,\u5207\u63db\u5fc5\u8b80)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-08-19\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-09-11\uff09",
       "file_type": "document",
       "source_file": "docs/INDEX.md",
       "source_location": "L5",
       "_origin": "ast",
-      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
+      "id": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_11",
       "community": 0,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-08-19)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-09-11)"
     },
     {
       "label": "\u9032\u5ea6",
@@ -684,14 +684,14 @@
       "norm_label": "\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c \u2014 current(\u7576\u524d\u7126\u9ede)"
     },
     {
-      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-09-09\uff09",
+      "label": "\u4e00\u53e5\u8a71\u72c0\u614b\uff082026-09-11\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
       "source_location": "L3",
       "_origin": "ast",
-      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_09",
+      "id": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_11",
       "community": 1,
-      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-09-09)"
+      "norm_label": "\u4e00\u53e5\u8a71\u72c0\u614b(2026-09-11)"
     },
     {
       "label": "\u4e0b\u4e00\u6b65",
@@ -704,14 +704,14 @@
       "norm_label": "\u4e0b\u4e00\u6b65"
     },
     {
-      "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-09-09\uff09",
+      "label": "\u78c1\u789f\u5be6\u6cc1\uff082026-09-11\uff09",
       "file_type": "document",
       "source_file": "docs/progress/current.md",
-      "source_location": "L16",
+      "source_location": "L17",
       "_origin": "ast",
-      "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_09",
+      "id": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_11",
       "community": 1,
-      "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-09-09)"
+      "norm_label": "\u78c1\u789f\u5be6\u6cc1(2026-09-11)"
     },
     {
       "label": "phase-05-accommodation-watch.md",
@@ -902,6 +902,176 @@
       "id": "docs_progress_phase_07_supply_stargazing_20260819_\u4e0b\u4e00\u6b65",
       "community": 12,
       "norm_label": "\u4e0b\u4e00\u6b65"
+    },
+    {
+      "label": "phase-08-coral-sea-shortlist-20260911.md",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_08_coral_sea_shortlist_20260911",
+      "community": 14,
+      "norm_label": "phase-08-coral-sea-shortlist-20260911.md"
+    },
+    {
+      "label": "Phase 08 \u2014 Coral Sea Villa \u6700\u7d42\u5019\u9078\u8207\u540c\u985e\u578b\u521d\u9078",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_progress_phase_08_coral_sea_shortlist_20260911_phase_08_coral_sea_villa_\u6700\u7d42\u5019\u9078\u8207\u540c\u985e\u578b\u521d\u9078",
+      "community": 14,
+      "norm_label": "phase 08 \u2014 coral sea villa \u6700\u7d42\u5019\u9078\u8207\u540c\u985e\u578b\u521d\u9078"
+    },
+    {
+      "label": "\u9019\u6b21\u5b8c\u6210",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_progress_phase_08_coral_sea_shortlist_20260911_\u9019\u6b21\u5b8c\u6210",
+      "community": 14,
+      "norm_label": "\u9019\u6b21\u5b8c\u6210"
+    },
+    {
+      "label": "\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "docs_progress_phase_08_coral_sea_shortlist_20260911_\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
+      "community": 14,
+      "norm_label": "\u73fe\u5728\u9084\u6c92\u5b8c\u6210"
+    },
+    {
+      "label": "\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
+      "file_type": "document",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "docs_progress_phase_08_coral_sea_shortlist_20260911_\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
+      "community": 14,
+      "norm_label": "\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_readme",
+      "community": 15,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "\u6d77\u666f\u6574\u68df Villa \u521d\u9078\uff082026-09-11\uff09",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_readme_\u6d77\u666f\u6574\u68df_villa_\u521d\u9078_2026_09_11",
+      "community": 15,
+      "norm_label": "\u6d77\u666f\u6574\u68df villa \u521d\u9078(2026-09-11)"
+    },
+    {
+      "label": "shortlist.md",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist",
+      "community": 13,
+      "norm_label": "shortlist.md"
+    },
+    {
+      "label": "Coral Sea Villa \u8207\u540c\u985e\u578b\u6d77\u666f\u6574\u68df\u4f4f\u5bbf",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_coral_sea_villa_\u8207\u540c\u985e\u578b\u6d77\u666f\u6574\u68df\u4f4f\u5bbf",
+      "community": 13,
+      "norm_label": "coral sea villa \u8207\u540c\u985e\u578b\u6d77\u666f\u6574\u68df\u4f4f\u5bbf"
+    },
+    {
+      "label": "\u6700\u7d42\u5019\u9078",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_\u6700\u7d42\u5019\u9078",
+      "community": 13,
+      "norm_label": "\u6700\u7d42\u5019\u9078"
+    },
+    {
+      "label": "Coral Sea Villa OKINAWA MIYAKOJIMA",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_coral_sea_villa_okinawa_miyakojima",
+      "community": 13,
+      "norm_label": "coral sea villa okinawa miyakojima"
+    },
+    {
+      "label": "\u540c\u985e\u578b\u521d\u9078",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_\u540c\u985e\u578b\u521d\u9078",
+      "community": 13,
+      "norm_label": "\u540c\u985e\u578b\u521d\u9078"
+    },
+    {
+      "label": "\u76ee\u524d\u5efa\u8b70",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_\u76ee\u524d\u5efa\u8b70",
+      "community": 13,
+      "norm_label": "\u76ee\u524d\u5efa\u8b70"
+    },
+    {
+      "label": "sources.md",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/supporting/sources.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_supporting_sources",
+      "community": 16,
+      "norm_label": "sources.md"
+    },
+    {
+      "label": "\u4f86\u6e90\u8207\u67e5\u6838\u9650\u5236",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/supporting/sources.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_supporting_sources_\u4f86\u6e90\u8207\u67e5\u6838\u9650\u5236",
+      "community": 16,
+      "norm_label": "\u4f86\u6e90\u8207\u67e5\u6838\u9650\u5236"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/work/README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_work_readme",
+      "community": 17,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Work",
+      "file_type": "document",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/work/README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_research_2026_09_11_oceanfront_villa_shortlist_work_readme_work",
+      "community": 17,
+      "norm_label": "work"
     }
   ],
   "links": [
@@ -932,7 +1102,7 @@
       "source_location": "L5",
       "weight": 1.0,
       "source": "docs_index_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_index_\u8584\u7d22\u5f15_\u5207\u63db\u5fc5\u8b80",
-      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_08_19",
+      "target": "docs_index_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_11",
       "confidence_score": 1.0
     },
     {
@@ -1542,7 +1712,7 @@
       "source_location": "L3",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_09",
+      "target": "docs_progress_current_\u4e00\u53e5\u8a71\u72c0\u614b_2026_09_11",
       "confidence_score": 1.0
     },
     {
@@ -1559,10 +1729,10 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/progress/current.md",
-      "source_location": "L16",
+      "source_location": "L17",
       "weight": 1.0,
       "source": "docs_progress_current_\u5bae\u53e4\u5cf6\u5bb6\u5ead\u65c5\u884c_current_\u7576\u524d\u7126\u9ede",
-      "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_09",
+      "target": "docs_progress_current_\u78c1\u789f\u5be6\u6cc1_2026_09_11",
       "confidence_score": 1.0
     },
     {
@@ -1724,8 +1894,128 @@
       "source": "docs_progress_phase_07_supply_stargazing_20260819_phase_07_\u8d85\u5e02\u88dc\u7d66\u8207\u591c\u9593\u89c0\u661f_2026_08_19",
       "target": "docs_progress_phase_07_supply_stargazing_20260819_\u9019\u6b21\u5b8c\u6210",
       "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_progress_phase_08_coral_sea_shortlist_20260911",
+      "target": "docs_progress_phase_08_coral_sea_shortlist_20260911_phase_08_coral_sea_villa_\u6700\u7d42\u5019\u9078\u8207\u540c\u985e\u578b\u521d\u9078",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "docs_progress_phase_08_coral_sea_shortlist_20260911_phase_08_coral_sea_villa_\u6700\u7d42\u5019\u9078\u8207\u540c\u985e\u578b\u521d\u9078",
+      "target": "docs_progress_phase_08_coral_sea_shortlist_20260911_\u4e0b\u4e00\u6b65\u7b2c\u4e00\u500b\u52d5\u4f5c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "docs_progress_phase_08_coral_sea_shortlist_20260911_phase_08_coral_sea_villa_\u6700\u7d42\u5019\u9078\u8207\u540c\u985e\u578b\u521d\u9078",
+      "target": "docs_progress_phase_08_coral_sea_shortlist_20260911_\u73fe\u5728\u9084\u6c92\u5b8c\u6210",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/progress/phase-08-coral-sea-shortlist-20260911.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_progress_phase_08_coral_sea_shortlist_20260911_phase_08_coral_sea_villa_\u6700\u7d42\u5019\u9078\u8207\u540c\u985e\u578b\u521d\u9078",
+      "target": "docs_progress_phase_08_coral_sea_shortlist_20260911_\u9019\u6b21\u5b8c\u6210",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_readme",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_readme_\u6d77\u666f\u6574\u68df_villa_\u521d\u9078_2026_09_11",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_coral_sea_villa_\u8207\u540c\u985e\u578b\u6d77\u666f\u6574\u68df\u4f4f\u5bbf",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_coral_sea_villa_\u8207\u540c\u985e\u578b\u6d77\u666f\u6574\u68df\u4f4f\u5bbf",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_\u540c\u985e\u578b\u521d\u9078",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_coral_sea_villa_\u8207\u540c\u985e\u578b\u6d77\u666f\u6574\u68df\u4f4f\u5bbf",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_\u6700\u7d42\u5019\u9078",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_coral_sea_villa_\u8207\u540c\u985e\u578b\u6d77\u666f\u6574\u68df\u4f4f\u5bbf",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_\u76ee\u524d\u5efa\u8b70",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/final/shortlist.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_\u6700\u7d42\u5019\u9078",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_final_shortlist_coral_sea_villa_okinawa_miyakojima",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/supporting/sources.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_supporting_sources",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_supporting_sources_\u4f86\u6e90\u8207\u67e5\u6838\u9650\u5236",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/research/2026-09-11-oceanfront-villa-shortlist/work/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "docs_research_2026_09_11_oceanfront_villa_shortlist_work_readme",
+      "target": "docs_research_2026_09_11_oceanfront_villa_shortlist_work_readme_work",
+      "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "a5120ebbaf31a8df26a5af52f9bef46827604116"
+  "built_at_commit": "568f7a9e3a31cfb72cfe413aea785cdf3d16dcf2"
 }
