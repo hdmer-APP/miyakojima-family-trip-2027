@@ -414,6 +414,48 @@
         "beach_drive_minutes": null
       },
       "notes": "只有一個主要 Indoor Shower；戶外浴池不計為第二個完整 Bathroom。"
+    },
+    {
+      "id": "coral_sea_villa_okinawa_miyakojima",
+      "property_name": "Coral Sea Villa OKINAWA MIYAKOJIMA",
+      "priority": "FINALIST",
+      "user_interest": "HIGH",
+      "quick_watch": false,
+      "decision_gate": "FLIGHT_CONFIRMED_AND_TARGET_DATES_BOOKABLE",
+      "official_url": "https://www.coralseavilla.com/",
+      "booking_url": "https://www.booking.com/hotel/jp/coral-sea-villa-okinawa-miyakojima.html?checkin=2027-05-13&checkout=2027-05-17&no_rooms=1&group_adults=5&group_children=0&selected_currency=TWD",
+      "feature_tags": [
+        "USER_SELECTED_FINALIST",
+        "BEACH_30_SECONDS",
+        "OCEAN_VIEW",
+        "ROOFTOP_JACUZZI"
+      ],
+      "facilities": {
+        "area_sqm": 140,
+        "bedrooms": 4,
+        "real_beds": 5,
+        "real_bed_capacity": 10,
+        "sofa_beds": 0,
+        "futons": 2,
+        "comfortable_for_5_adults": true,
+        "toilets": 2,
+        "bathrooms": 1,
+        "showers": 2,
+        "outdoor_rinse_showers": 1,
+        "washbasins": 2,
+        "single_story": false,
+        "stairs_required_for_elderly_guest": null,
+        "kitchen": true,
+        "washer": true,
+        "dryer": true,
+        "dishwasher": null,
+        "private_pool": false,
+        "bbq": true,
+        "beach_name": "池間島住宿前方海灘",
+        "beach_walk_minutes": 1,
+        "beach_drive_minutes": null
+      },
+      "notes": "Morris 指定納入最終名單。機票確認且 2027/05/13–05/17 可訂時才進入下訂比較。官方資料為 1 樓 3 間臥室、2 樓和室、2 Toilet、Unit Bath＋獨立 Shower Room；屋頂 Jacuzzi 與 2 樓需要樓梯，停車位到 1 樓臥室、廁所與淋浴的必要動線仍須書面確認。價格、取消條款、付款時點與 2027 宿泊稅維持 UNKNOWN。"
     }
   ]
 }

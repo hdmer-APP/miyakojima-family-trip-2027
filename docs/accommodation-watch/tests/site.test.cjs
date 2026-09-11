@@ -11,6 +11,7 @@ const config = JSON.parse(fs.readFileSync(path.join(watchDir, 'config.json'), 'u
 const observations = JSON.parse(fs.readFileSync(path.join(watchDir, 'data', 'observations.json'), 'utf8'));
 const current = JSON.parse(fs.readFileSync(path.join(watchDir, 'data', 'current.json'), 'utf8'));
 const watchHtml = fs.readFileSync(path.join(siteDir, 'accommodation-watch.html'), 'utf8');
+const stayHtml = fs.readFileSync(path.join(siteDir, 'stay.html'), 'utf8');
 const standalone = fs.readFileSync(path.join(projectRoot, 'index.html'), 'utf8');
 
 assert.equal(current.length, config.properties.length, '每個設定住宿都必須出現在 current comparison');
@@ -23,6 +24,14 @@ const feliz = current.find((row) => row.id === 'feliz_ueno_2br');
 assert.equal(feliz.facilities.toilets, null, 'Feliz Toilet 未經正式來源確認前必須是 UNKNOWN');
 assert.equal(feliz.facilities.bathrooms, null, 'Feliz Bathroom 未經正式來源確認前必須是 UNKNOWN');
 assert.equal(feliz.priority, 'A', 'Feliz 衛浴未確認前不得自動升級 S');
+
+const coralSea = current.find((row) => row.id === 'coral_sea_villa_okinawa_miyakojima');
+assert(coralSea, 'Coral Sea Villa 必須保留在最終候選與住宿監看清單');
+assert.equal(coralSea.priority, 'FINALIST');
+assert.equal(coralSea.decision_gate, 'FLIGHT_CONFIRMED_AND_TARGET_DATES_BOOKABLE');
+assert.equal(coralSea.availability_status, 'UNKNOWN', '未查到目標日期房況前不得推定可訂');
+assert(stayHtml.includes('Coral Sea Villa OKINAWA MIYAKOJIMA'), '住宿比較頁必須列出 Coral Sea Villa 最終候選');
+assert(stayHtml.includes('機票確認'), '住宿比較頁必須保留 Coral Sea Villa 的決策時點');
 
 for (const property of config.properties) {
   assert(watchHtml.includes(property.property_name), `監看頁缺少 ${property.property_name}`);
